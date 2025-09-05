@@ -1,0 +1,1874 @@
+driver,constructor,year,round,circuit,position,weather_type,circuit_type,status,finished
+russell,williams,2021,17,americas,14,dry,permanent,+1 Lap,TRUE
+ricciardo,mclaren,2021,4,catalunya,6,dry,permanent,Finished,TRUE
+hulkenberg,renault,2017,12,spa,6,dry,permanent,Finished,TRUE
+vettel,ferrari,2017,7,villeneuve,4,dry,street,Finished,TRUE
+max_verstappen,red_bull,2017,17,americas,4,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,1,albert_park,4,dry,street,Finished,TRUE
+stroll,racing_point,2020,6,catalunya,4,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2017,10,silverstone,14,dry,permanent,+1 Lap,TRUE
+stroll,williams,2018,1,albert_park,14,dry,street,Finished,TRUE
+latifi,williams,2020,4,silverstone,15,dry,permanent,Finished,TRUE
+nasr,sauber,2015,7,villeneuve,16,dry,street,+2 Laps,TRUE
+perez,force_india,2018,20,interlagos,10,dry,permanent,+1 Lap,TRUE
+chilton,marussia,2014,10,hockenheimring,17,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2021,9,red_bull_ring,4,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,15,marina_bay,12,dry,street,Finished,TRUE
+ricciardo,red_bull,2016,16,sepang,1,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2015,18,interlagos,8,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2017,20,yas_marina,12,dry,permanent,+1 Lap,TRUE
+button,mclaren,2016,17,suzuka,18,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2016,21,yas_marina,6,dry,permanent,Finished,TRUE
+sainz,mclaren,2020,1,red_bull_ring,5,dry,permanent,Finished,TRUE
+kvyat,red_bull,2015,19,yas_marina,10,dry,permanent,Finished,TRUE
+hulkenberg,renault,2018,15,marina_bay,10,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2016,13,spa,15,dry,permanent,Finished,TRUE
+button,mclaren,2014,16,sochi,4,dry,permanent,Finished,TRUE
+ocon,force_india,2018,2,bahrain,10,dry,permanent,+1 Lap,TRUE
+kvyat,red_bull,2015,11,spa,4,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2018,1,albert_park,9,dry,street,Finished,TRUE
+gasly,alphatauri,2021,22,yas_marina,5,dry,permanent,Finished,TRUE
+bottas,williams,2014,18,interlagos,10,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,7,ricard,20,dry,permanent,+1 Lap,TRUE
+latifi,williams,2021,3,portimao,18,dry,permanent,+2 Laps,TRUE
+raikkonen,ferrari,2018,1,albert_park,3,dry,street,Finished,TRUE
+gutierrez,haas,2016,12,hockenheimring,11,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2016,20,interlagos,7,wet,permanent,Finished,TRUE
+leclerc,ferrari,2020,12,portimao,4,dry,permanent,Finished,TRUE
+stroll,williams,2018,4,BAK,8,dry,street,Finished,TRUE
+sainz,mclaren,2020,15,bahrain,5,dry,permanent,Finished,TRUE
+leclerc,sauber,2018,15,marina_bay,9,dry,permanent,+1 Lap,TRUE
+pietro_fittipaldi,haas,2020,16,bahrain,17,dry,permanent,Finished,TRUE
+ocon,alpine,2021,14,monza,10,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,6,monaco,7,wet,street,Finished,TRUE
+button,mclaren,2016,18,americas,9,dry,permanent,+1 Lap,TRUE
+nasr,sauber,2015,19,yas_marina,15,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2014,16,sochi,7,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,7,ricard,4,dry,permanent,Finished,TRUE
+ericsson,caterham,2014,8,red_bull_ring,18,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2018,6,monaco,5,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,2,shanghai,6,wet,permanent,Finished,TRUE
+merhi,manor,2015,4,bahrain,17,dry,permanent,+3 Laps,TRUE
+perez,force_india,2017,1,albert_park,7,dry,street,+1 Lap,TRUE
+max_verstappen,red_bull,2019,15,marina_bay,3,dry,street,Finished,TRUE
+ricciardo,red_bull,2016,2,bahrain,4,dry,permanent,Finished,TRUE
+ricciardo,renault,2020,5,silverstone,14,dry,permanent,+1 Lap,TRUE
+kvyat,red_bull,2015,13,marina_bay,6,dry,street,Finished,TRUE
+ricciardo,red_bull,2014,3,bahrain,4,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,19,interlagos,5,dry,permanent,Finished,TRUE
+button,mclaren,2014,7,villeneuve,4,dry,street,Finished,TRUE
+leclerc,ferrari,2021,22,yas_marina,10,dry,permanent,Finished,TRUE
+grosjean,haas,2020,9,mugello,12,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,3,shanghai,8,dry,permanent,Finished,TRUE
+stroll,racing_point,2019,3,shanghai,12,dry,permanent,+1 Lap,TRUE
+button,mclaren,2014,5,catalunya,11,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2019,9,red_bull_ring,13,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,13,spa,15,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2014,2,sepang,2,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,5,catalunya,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,3,shanghai,4,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2016,20,interlagos,13,wet,permanent,Finished,TRUE
+sutil,sauber,2014,5,catalunya,17,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,18,rodriguez,4,dry,permanent,Finished,TRUE
+ricciardo,renault,2019,15,marina_bay,14,dry,street,Finished,TRUE
+ocon,manor,2016,16,sepang,16,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2015,6,monaco,2,dry,street,Finished,TRUE
+stroll,williams,2018,21,yas_marina,13,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,20,losail,18,dry,permanent,+2 Laps,TRUE
+rosberg,mercedes,2014,10,hockenheimring,1,dry,permanent,Finished,TRUE
+perez,force_india,2018,18,americas,8,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2014,7,villeneuve,1,dry,street,Finished,TRUE
+perez,force_india,2016,21,yas_marina,8,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2021,3,portimao,2,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,7,ricard,16,dry,permanent,+1 Lap,TRUE
+button,mclaren,2014,6,monaco,6,dry,street,+1 Lap,TRUE
+massa,williams,2017,5,catalunya,13,dry,permanent,+2 Laps,TRUE
+vettel,aston_martin,2021,20,losail,10,dry,permanent,+1 Lap,TRUE
+haryanto,manor,2016,5,catalunya,17,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,8,ricard,13,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2020,6,catalunya,15,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,20,yas_marina,14,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2018,21,yas_marina,11,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,8,red_bull_ring,9,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2019,14,monza,3,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2015,2,sepang,8,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,10,silverstone,17,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,9,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2015,17,rodriguez,7,dry,permanent,Finished,TRUE
+nasr,sauber,2016,18,americas,15,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2018,15,marina_bay,6,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2017,11,hungaroring,10,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2019,6,monaco,10,dry,street,Finished,TRUE
+vettel,ferrari,2019,17,suzuka,2,dry,permanent,Finished,TRUE
+button,mclaren,2014,19,yas_marina,5,dry,permanent,Finished,TRUE
+bottas,williams,2015,10,hungaroring,13,dry,permanent,Finished,TRUE
+sainz,renault,2018,17,suzuka,10,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2020,5,silverstone,16,dry,permanent,+1 Lap,TRUE
+bottas,williams,2016,8,BAK,6,dry,street,Finished,TRUE
+raikkonen,alfa,2019,14,monza,15,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,18,rodriguez,11,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2021,18,rodriguez,4,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2014,2,sepang,11,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,15,marina_bay,16,dry,street,Finished,TRUE
+wehrlein,manor,2016,4,sochi,18,dry,permanent,+2 Laps,TRUE
+button,mclaren,2015,19,yas_marina,12,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,2,imola,17,wet,permanent,+2 Laps,TRUE
+massa,williams,2016,18,americas,7,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,19,interlagos,18,dry,permanent,+2 Laps,TRUE
+max_verstappen,red_bull,2021,8,red_bull_ring,1,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,15,sochi,3,wet,permanent,Finished,TRUE
+haryanto,manor,2016,7,villeneuve,19,dry,street,+2 Laps,TRUE
+massa,williams,2016,10,silverstone,11,wet,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2019,18,rodriguez,14,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,16,suzuka,15,dry,permanent,+2 Laps,TRUE
+vettel,red_bull,2014,18,interlagos,5,dry,permanent,Finished,TRUE
+button,mclaren,2015,18,interlagos,14,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2015,15,sochi,1,dry,street,Finished,TRUE
+hamilton,mercedes,2021,10,silverstone,1,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,10,hungaroring,10,dry,permanent,Finished,TRUE
+kvyat,alphatauri,2020,14,istanbul,12,wet,permanent,+1 Lap,TRUE
+chilton,marussia,2014,15,suzuka,18,wet,permanent,+1 Lap,TRUE
+vergne,toro_rosso,2014,16,sochi,13,dry,permanent,Finished,TRUE
+max_verstappen,toro_rosso,2016,1,albert_park,10,dry,street,Finished,TRUE
+raikkonen,alfa,2020,5,silverstone,15,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2016,3,shanghai,1,dry,permanent,Finished,TRUE
+grosjean,haas,2017,8,BAK,13,dry,street,+1 Lap,TRUE
+hulkenberg,force_india,2015,7,villeneuve,8,dry,street,+1 Lap,TRUE
+vettel,ferrari,2020,9,mugello,10,dry,permanent,Finished,TRUE
+kevin_magnussen,mclaren,2014,19,yas_marina,11,dry,permanent,Finished,TRUE
+hamilton,mercedes,2019,20,interlagos,7,dry,permanent,Finished,TRUE
+gutierrez,sauber,2014,10,hockenheimring,14,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2016,1,albert_park,6,dry,street,Finished,TRUE
+sirotkin,williams,2018,20,interlagos,16,dry,permanent,+2 Laps,TRUE
+sirotkin,williams,2018,16,sochi,18,dry,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2016,16,sepang,8,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,5,catalunya,7,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,10,silverstone,8,wet,permanent,Finished,TRUE
+sainz,toro_rosso,2017,11,hungaroring,7,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2018,17,suzuka,3,dry,permanent,Finished,TRUE
+massa,williams,2014,5,catalunya,13,dry,permanent,+1 Lap,TRUE
+stevens,manor,2015,13,marina_bay,15,dry,street,+2 Laps,TRUE
+max_verstappen,red_bull,2020,14,istanbul,6,wet,permanent,Finished,TRUE
+grosjean,haas,2017,10,silverstone,13,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2018,17,suzuka,11,dry,permanent,+1 Lap,TRUE
+bottas,williams,2015,6,monaco,14,dry,street,Finished,TRUE
+kvyat,red_bull,2015,14,suzuka,13,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,16,sochi,16,dry,permanent,+2 Laps,TRUE
+stroll,racing_point,2020,16,bahrain,3,dry,permanent,Finished,TRUE
+stroll,williams,2018,19,rodriguez,12,dry,permanent,+2 Laps,TRUE
+rosberg,mercedes,2014,13,monza,2,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,7,villeneuve,17,dry,street,+2 Laps,TRUE
+jules_bianchi,marussia,2014,4,shanghai,17,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,19,interlagos,14,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,21,jeddah,9,dry,street,Finished,TRUE
+grosjean,haas,2018,6,monaco,15,dry,permanent,+1 Lap,TRUE
+maldonado,lotus_f1,2015,16,americas,8,dry,permanent,Finished,TRUE
+hamilton,mercedes,2019,9,red_bull_ring,5,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,14,suzuka,14,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,1,albert_park,2,dry,street,Finished,TRUE
+max_verstappen,toro_rosso,2016,3,shanghai,8,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,13,zandvoort,3,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,8,BAK,17,dry,street,+1 Lap,TRUE
+raikkonen,ferrari,2016,7,villeneuve,6,dry,street,Finished,TRUE
+ricciardo,mclaren,2021,1,bahrain,7,dry,permanent,Finished,TRUE
+ericsson,sauber,2017,2,shanghai,15,wet,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2016,5,catalunya,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2016,3,shanghai,7,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,18,americas,2,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,8,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2019,14,monza,13,dry,permanent,+1 Lap,TRUE
+albon,toro_rosso,2019,12,hungaroring,10,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2017,2,shanghai,13,wet,permanent,+1 Lap,TRUE
+ocon,force_india,2017,15,sepang,10,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,7,villeneuve,18,dry,street,+3 Laps,TRUE
+albon,red_bull,2019,18,rodriguez,5,dry,permanent,Finished,TRUE
+jules_bianchi,marussia,2014,11,hungaroring,15,wet,permanent,+1 Lap,TRUE
+kevin_magnussen,renault,2016,7,villeneuve,16,dry,street,+2 Laps,TRUE
+kevin_magnussen,haas,2017,20,yas_marina,13,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,8,ricard,19,dry,permanent,+2 Laps,TRUE
+kvyat,red_bull,2015,10,hungaroring,2,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,2,bahrain,9,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2020,8,monza,3,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,10,hungaroring,3,dry,permanent,Finished,TRUE
+nasr,sauber,2016,20,interlagos,9,wet,permanent,Finished,TRUE
+vergne,toro_rosso,2014,14,marina_bay,6,dry,street,Finished,TRUE
+hamilton,mercedes,2017,9,red_bull_ring,4,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2020,13,imola,10,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,11,spa,12,dry,permanent,Tyre,TRUE
+raikkonen,alfa,2019,21,yas_marina,13,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2018,18,americas,6,dry,permanent,Finished,TRUE
+hulkenberg,renault,2019,12,hungaroring,12,dry,permanent,+1 Lap,TRUE
+albon,toro_rosso,2019,4,BAK,11,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2017,15,sepang,16,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,7,villeneuve,15,dry,street,+2 Laps,TRUE
+mick_schumacher,haas,2021,14,monza,15,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,10,hockenheimring,5,dry,permanent,Finished,TRUE
+norris,mclaren,2019,17,suzuka,11,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2020,17,yas_marina,14,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2014,4,shanghai,4,dry,permanent,Finished,TRUE
+button,mclaren,2014,10,hockenheimring,8,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2021,1,bahrain,12,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,10,silverstone,7,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,13,imola,9,dry,permanent,Finished,TRUE
+massa,williams,2014,18,interlagos,3,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,9,silverstone,17,dry,permanent,+3 Laps,TRUE
+gasly,alphatauri,2020,14,istanbul,13,wet,permanent,+1 Lap,TRUE
+perez,racing_point,2019,13,spa,6,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2017,8,BAK,1,dry,street,Finished,TRUE
+sainz,ferrari,2021,2,imola,5,wet,permanent,Finished,TRUE
+hamilton,mercedes,2014,11,hungaroring,3,wet,permanent,Finished,TRUE
+button,mclaren,2016,16,sepang,9,dry,permanent,Finished,TRUE
+bottas,williams,2016,6,monaco,12,wet,street,+1 Lap,TRUE
+raikkonen,ferrari,2016,17,suzuka,5,dry,permanent,Finished,TRUE
+leclerc,ferrari,2020,10,sochi,6,dry,permanent,Finished,TRUE
+albon,toro_rosso,2019,9,red_bull_ring,15,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,17,suzuka,16,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2017,16,suzuka,4,dry,permanent,Finished,TRUE
+tsunoda,alphatauri,2021,19,interlagos,15,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2016,20,interlagos,10,wet,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,12,hungaroring,13,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2015,19,yas_marina,14,dry,permanent,+1 Lap,TRUE
+button,mclaren,2015,14,suzuka,16,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2018,12,hungaroring,10,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2019,15,marina_bay,9,dry,street,Finished,TRUE
+hamilton,mercedes,2016,17,suzuka,3,dry,permanent,Finished,TRUE
+perez,force_india,2017,9,red_bull_ring,7,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2017,15,sepang,11,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2020,8,monza,7,dry,permanent,Finished,TRUE
+russell,williams,2019,19,americas,17,dry,permanent,+2 Laps,TRUE
+norris,mclaren,2021,7,ricard,5,dry,permanent,Finished,TRUE
+bottas,williams,2015,3,shanghai,6,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,1,bahrain,6,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,5,catalunya,3,dry,permanent,Finished,TRUE
+grosjean,haas,2018,15,marina_bay,15,dry,permanent,+1 Lap,TRUE
+sainz,ferrari,2021,22,yas_marina,3,dry,permanent,Finished,TRUE
+gasly,alphatauri,2020,5,silverstone,11,dry,permanent,Finished,TRUE
+bottas,mercedes,2020,13,imola,2,dry,permanent,Finished,TRUE
+norris,mclaren,2019,10,silverstone,11,dry,permanent,Finished,TRUE
+hamilton,mercedes,2020,6,catalunya,1,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2016,13,spa,14,dry,permanent,Finished,TRUE
+bottas,mercedes,2018,12,hungaroring,5,dry,permanent,Finished,TRUE
+bottas,williams,2016,14,monza,6,dry,permanent,Finished,TRUE
+hamilton,mercedes,2015,5,catalunya,2,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,17,americas,6,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,20,interlagos,6,wet,permanent,Finished,TRUE
+raikkonen,ferrari,2018,8,ricard,3,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,5,catalunya,12,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,17,americas,1,dry,permanent,Finished,TRUE
+latifi,williams,2020,15,bahrain,14,dry,permanent,+1 Lap,TRUE
+vettel,aston_martin,2021,19,interlagos,11,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2019,10,silverstone,17,dry,permanent,+1 Lap,TRUE
+perez,force_india,2015,18,interlagos,12,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2019,11,hockenheimring,3,wet,permanent,Finished,TRUE
+rosberg,mercedes,2016,2,bahrain,1,dry,permanent,Finished,TRUE
+russell,williams,2021,7,ricard,12,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2019,9,red_bull_ring,9,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,10,hockenheimring,11,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,renault,2016,17,suzuka,14,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2016,20,interlagos,3,wet,permanent,Finished,TRUE
+kvyat,red_bull,2016,2,bahrain,7,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,6,monaco,11,dry,permanent,Finished,TRUE
+mick_schumacher,haas,2021,16,istanbul,19,wet,permanent,+2 Laps,TRUE
+vandoorne,mclaren,2018,21,yas_marina,14,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2019,12,hungaroring,8,dry,permanent,+1 Lap,TRUE
+perez,red_bull,2021,13,zandvoort,8,dry,permanent,+1 Lap,TRUE
+sainz,renault,2018,8,ricard,8,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2015,19,yas_marina,9,dry,permanent,Finished,TRUE
+leclerc,ferrari,2020,15,bahrain,10,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2020,7,spa,9,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2015,6,monaco,12,dry,street,Finished,TRUE
+perez,force_india,2017,18,rodriguez,7,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2020,11,nurburgring,4,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2017,12,spa,3,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,6,monaco,4,dry,permanent,Finished,TRUE
+grosjean,haas,2017,3,bahrain,8,dry,permanent,Finished,TRUE
+grosjean,haas,2016,3,shanghai,19,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2016,20,interlagos,8,wet,permanent,Finished,TRUE
+vettel,ferrari,2015,14,suzuka,3,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,17,americas,13,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2017,16,suzuka,2,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,1,bahrain,11,dry,permanent,Finished,TRUE
+jules_bianchi,marussia,2014,6,monaco,9,dry,street,+1 Lap,TRUE
+giovinazzi,alfa,2021,4,catalunya,15,dry,permanent,+1 Lap,TRUE
+nasr,sauber,2016,17,suzuka,19,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,4,BAK,16,dry,permanent,+2 Laps,TRUE
+vettel,ferrari,2020,14,istanbul,3,wet,permanent,Finished,TRUE
+giovinazzi,alfa,2020,2,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,3,portimao,8,dry,permanent,Finished,TRUE
+ocon,manor,2016,18,americas,18,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2019,13,spa,3,dry,permanent,Finished,TRUE
+massa,williams,2015,10,hungaroring,12,dry,permanent,Finished,TRUE
+leclerc,sauber,2018,4,BAK,6,dry,street,Finished,TRUE
+rosberg,mercedes,2016,12,hockenheimring,4,dry,permanent,Finished,TRUE
+sainz,renault,2017,17,americas,7,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,5,catalunya,13,dry,permanent,+2 Laps,TRUE
+russell,williams,2020,9,mugello,11,dry,permanent,Finished,TRUE
+alonso,alpine,2021,21,jeddah,13,dry,street,+1 Lap,TRUE
+norris,mclaren,2020,9,mugello,6,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,8,BAK,1,dry,street,Finished,TRUE
+raikkonen,ferrari,2017,19,interlagos,3,dry,permanent,Finished,TRUE
+perez,force_india,2017,14,marina_bay,5,wet,street,Finished,TRUE
+ericsson,sauber,2016,12,hockenheimring,18,dry,permanent,+2 Laps,TRUE
+raikkonen,ferrari,2018,7,villeneuve,6,dry,street,Finished,TRUE
+kubica,williams,2019,10,silverstone,15,dry,permanent,+1 Lap,TRUE
+gutierrez,sauber,2014,12,spa,15,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,2,bahrain,13,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2017,15,sepang,1,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,15,sepang,2,dry,permanent,Finished,TRUE
+leclerc,sauber,2018,9,red_bull_ring,9,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2019,17,suzuka,7,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,5,catalunya,8,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,3,bahrain,10,dry,permanent,Finished,TRUE
+sainz,renault,2018,6,monaco,10,dry,permanent,Finished,TRUE
+hamilton,mercedes,2014,9,silverstone,1,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,19,rodriguez,4,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,12,spa,5,dry,permanent,Finished,TRUE
+albon,red_bull,2020,6,catalunya,8,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2017,6,monaco,2,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,8,red_bull_ring,8,dry,permanent,+1 Lap,TRUE
+ricciardo,renault,2020,8,monza,6,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,14,marina_bay,9,dry,street,Finished,TRUE
+bottas,mercedes,2020,3,hungaroring,3,wet,permanent,Finished,TRUE
+ricciardo,mclaren,2021,17,americas,5,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,3,shanghai,3,dry,permanent,Finished,TRUE
+leclerc,ferrari,2019,17,suzuka,6,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,16,sochi,13,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2017,13,monza,11,dry,permanent,+1 Lap,TRUE
+button,mclaren,2014,1,albert_park,3,dry,street,Finished,TRUE
+vettel,aston_martin,2021,14,monza,12,dry,permanent,Finished,TRUE
+vettel,ferrari,2020,11,nurburgring,11,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,21,jeddah,3,dry,street,Finished,TRUE
+hamilton,mercedes,2019,19,americas,2,dry,permanent,Finished,TRUE
+grosjean,haas,2016,8,BAK,13,dry,street,+1 Lap,TRUE
+nasr,sauber,2016,11,hungaroring,17,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2019,20,interlagos,15,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,8,ricard,5,dry,permanent,Finished,TRUE
+bottas,williams,2016,5,catalunya,5,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,12,hungaroring,16,dry,permanent,+2 Laps,TRUE
+raikkonen,ferrari,2017,13,monza,5,dry,permanent,Finished,TRUE
+russell,mercedes,2020,16,bahrain,9,dry,permanent,Finished,TRUE
+perez,force_india,2014,7,villeneuve,11,dry,street,Collision,TRUE
+ricciardo,red_bull,2017,10,silverstone,5,dry,permanent,Finished,TRUE
+massa,williams,2015,19,yas_marina,8,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,19,interlagos,6,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,6,BAK,8,dry,street,Finished,TRUE
+kobayashi,caterham,2014,2,sepang,13,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2017,17,americas,2,dry,permanent,Finished,TRUE
+rossi,manor,2015,17,rodriguez,15,dry,permanent,+2 Laps,TRUE
+vandoorne,mclaren,2017,9,red_bull_ring,12,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2019,7,villeneuve,2,dry,street,Finished,TRUE
+hamilton,mercedes,2015,14,suzuka,1,dry,permanent,Finished,TRUE
+grosjean,haas,2018,2,bahrain,13,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2018,3,shanghai,18,dry,permanent,Finished,TRUE
+perez,force_india,2016,14,monza,8,dry,permanent,Finished,TRUE
+latifi,williams,2021,12,spa,9,wet,permanent,Finished,TRUE
+hulkenberg,force_india,2014,16,sochi,12,dry,permanent,Finished,TRUE
+brendon_hartley,toro_rosso,2018,5,catalunya,12,dry,permanent,+2 Laps,TRUE
+ricciardo,renault,2019,13,spa,14,dry,permanent,+1 Lap,TRUE
+sirotkin,williams,2018,5,catalunya,14,dry,permanent,+3 Laps,TRUE
+albon,red_bull,2020,9,mugello,3,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,6,monaco,2,dry,street,Finished,TRUE
+giovinazzi,sauber,2017,1,albert_park,12,dry,street,+2 Laps,TRUE
+ricciardo,red_bull,2017,16,suzuka,3,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,17,americas,7,dry,permanent,Finished,TRUE
+bottas,mercedes,2018,15,marina_bay,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,20,interlagos,1,dry,permanent,Finished,TRUE
+gasly,red_bull,2019,8,ricard,10,dry,permanent,+1 Lap,TRUE
+kubica,alfa,2021,14,monza,14,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2016,7,villeneuve,8,dry,street,+1 Lap,TRUE
+albon,red_bull,2020,15,bahrain,3,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,7,ricard,2,dry,permanent,Finished,TRUE
+norris,mclaren,2019,2,bahrain,6,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,2,bahrain,13,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2016,17,suzuka,11,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,9,red_bull_ring,13,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2019,4,BAK,12,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2019,14,monza,11,dry,permanent,+1 Lap,TRUE
+perez,force_india,2014,10,hockenheimring,10,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2018,21,yas_marina,10,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2017,17,americas,3,dry,permanent,Finished,TRUE
+alonso,alpine,2021,2,imola,10,wet,permanent,Finished,TRUE
+kobayashi,caterham,2014,6,monaco,13,dry,street,+2 Laps,TRUE
+kvyat,toro_rosso,2016,11,hungaroring,16,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,7,ricard,19,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2018,2,bahrain,5,dry,permanent,Finished,TRUE
+ocon,alpine,2021,16,istanbul,10,wet,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,9,red_bull_ring,2,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2017,8,BAK,12,dry,street,Finished,TRUE
+raikkonen,ferrari,2017,10,silverstone,3,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,1,albert_park,16,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2016,12,hockenheimring,1,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,18,americas,2,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,10,silverstone,14,dry,permanent,Finished,TRUE
+ricciardo,mclaren,2021,10,silverstone,5,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,12,hungaroring,7,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2021,11,hungaroring,2,wet,permanent,Finished,TRUE
+norris,mclaren,2020,8,monza,4,dry,permanent,Finished,TRUE
+hulkenberg,renault,2017,4,sochi,8,dry,permanent,Finished,TRUE
+bottas,mercedes,2020,17,yas_marina,2,dry,permanent,Finished,TRUE
+ricciardo,renault,2020,11,nurburgring,3,dry,permanent,Finished,TRUE
+hamilton,mercedes,2020,2,red_bull_ring,1,dry,permanent,Finished,TRUE
+ocon,force_india,2018,1,albert_park,12,dry,street,Finished,TRUE
+vettel,ferrari,2017,19,interlagos,1,dry,permanent,Finished,TRUE
+grosjean,haas,2020,10,sochi,17,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2015,15,sochi,2,dry,street,Finished,TRUE
+russell,williams,2020,12,portimao,14,dry,permanent,+1 Lap,TRUE
+brendon_hartley,toro_rosso,2018,17,suzuka,13,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2014,15,suzuka,1,wet,permanent,Finished,TRUE
+max_verstappen,red_bull,2017,11,hungaroring,5,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,18,rodriguez,9,dry,permanent,+1 Lap,TRUE
+button,mclaren,2016,8,BAK,11,dry,street,Finished,TRUE
+kvyat,red_bull,2015,12,monza,10,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,6,monaco,10,dry,street,+1 Lap,TRUE
+grosjean,haas,2019,18,rodriguez,17,dry,permanent,+2 Laps,TRUE
+norris,mclaren,2020,16,bahrain,10,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,13,marina_bay,11,dry,street,Finished,TRUE
+grosjean,haas,2017,14,marina_bay,9,wet,street,Finished,TRUE
+ocon,force_india,2017,1,albert_park,10,dry,street,+1 Lap,TRUE
+button,mclaren,2015,6,monaco,8,dry,street,Finished,TRUE
+ocon,manor,2016,20,interlagos,12,wet,permanent,Finished,TRUE
+bottas,mercedes,2019,18,rodriguez,3,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2017,12,spa,14,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,16,suzuka,5,dry,permanent,Finished,TRUE
+sutil,sauber,2014,16,sochi,16,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2016,12,hockenheimring,3,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,19,yas_marina,4,dry,permanent,Finished,TRUE
+button,mclaren,2015,11,spa,14,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,9,silverstone,7,dry,permanent,Finished,TRUE
+button,mclaren,2016,5,catalunya,9,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2016,3,shanghai,22,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2016,4,sochi,3,dry,permanent,Finished,TRUE
+vergne,toro_rosso,2014,1,albert_park,8,dry,street,Finished,TRUE
+hamilton,mercedes,2016,14,monza,2,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,7,villeneuve,6,dry,street,Finished,TRUE
+button,mclaren,2014,11,hungaroring,10,wet,permanent,Finished,TRUE
+vergne,toro_rosso,2014,9,silverstone,10,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2021,18,rodriguez,8,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2019,15,marina_bay,4,dry,street,Finished,TRUE
+hamilton,mercedes,2018,4,BAK,1,dry,street,Finished,TRUE
+gasly,alphatauri,2020,11,nurburgring,6,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2018,2,bahrain,8,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2019,6,monaco,13,dry,street,+1 Lap,TRUE
+nasr,sauber,2016,7,villeneuve,18,dry,street,+2 Laps,TRUE
+ricciardo,red_bull,2016,5,catalunya,4,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,7,villeneuve,17,dry,street,+2 Laps,TRUE
+hamilton,mercedes,2014,17,americas,1,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2017,9,red_bull_ring,16,dry,permanent,+3 Laps,TRUE
+kvyat,toro_rosso,2019,12,hungaroring,15,dry,permanent,+2 Laps,TRUE
+jules_bianchi,marussia,2014,10,hockenheimring,15,dry,permanent,+1 Lap,TRUE
+sirotkin,williams,2018,21,yas_marina,15,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,4,sochi,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2015,16,americas,1,dry,permanent,Finished,TRUE
+alonso,mclaren,2015,11,spa,13,dry,permanent,+1 Lap,TRUE
+sirotkin,williams,2018,13,spa,12,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,1,albert_park,17,dry,permanent,+3 Laps,TRUE
+stevens,manor,2015,9,silverstone,13,wet,permanent,+3 Laps,TRUE
+kevin_magnussen,haas,2017,15,sepang,12,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,2,shanghai,14,wet,permanent,+1 Lap,TRUE
+ericsson,sauber,2015,17,rodriguez,12,dry,permanent,Finished,TRUE
+hamilton,mercedes,2020,12,portimao,1,dry,permanent,Finished,TRUE
+massa,williams,2015,7,villeneuve,6,dry,street,Finished,TRUE
+bottas,williams,2016,4,sochi,4,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,6,monaco,2,wet,street,Finished,TRUE
+kevin_magnussen,haas,2019,1,albert_park,6,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,16,sochi,18,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2016,18,americas,10,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,3,bahrain,10,dry,permanent,Finished,TRUE
+ricciardo,renault,2020,2,red_bull_ring,8,dry,permanent,Finished,TRUE
+perez,force_india,2015,1,albert_park,10,dry,street,+1 Lap,TRUE
+ricciardo,red_bull,2014,13,monza,5,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2014,14,marina_bay,3,dry,street,Finished,TRUE
+vettel,ferrari,2020,13,imola,12,dry,permanent,Finished,TRUE
+mazepin,haas,2021,15,sochi,18,wet,permanent,+2 Laps,TRUE
+raikkonen,alfa,2021,7,ricard,17,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2015,13,marina_bay,9,dry,street,Finished,TRUE
+raikkonen,ferrari,2016,3,shanghai,5,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,4,catalunya,12,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2020,8,monza,16,dry,permanent,Finished,TRUE
+gasly,red_bull,2019,5,catalunya,6,dry,permanent,Finished,TRUE
+alonso,mclaren,2018,17,suzuka,14,dry,permanent,+1 Lap,TRUE
+albon,red_bull,2020,14,istanbul,7,wet,permanent,Finished,TRUE
+leclerc,ferrari,2021,15,sochi,15,wet,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,1,albert_park,2,dry,street,Finished,TRUE
+hamilton,mercedes,2018,21,yas_marina,1,dry,permanent,Finished,TRUE
+vergne,toro_rosso,2014,19,yas_marina,12,dry,permanent,Finished,TRUE
+ocon,renault,2020,7,spa,5,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,9,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,19,interlagos,4,dry,permanent,Finished,TRUE
+stroll,racing_point,2020,4,silverstone,9,dry,permanent,Finished,TRUE
+bottas,williams,2014,15,suzuka,6,wet,permanent,Finished,TRUE
+hamilton,mercedes,2017,12,spa,1,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,12,hungaroring,5,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2017,20,yas_marina,6,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2014,11,hungaroring,14,wet,permanent,+1 Lap,TRUE
+perez,racing_point,2019,1,albert_park,13,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2016,7,villeneuve,12,dry,street,+1 Lap,TRUE
+kvyat,alphatauri,2020,2,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2019,10,silverstone,8,dry,permanent,Finished,TRUE
+albon,red_bull,2020,17,yas_marina,4,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2018,9,red_bull_ring,2,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,16,sepang,2,dry,permanent,Finished,TRUE
+chilton,marussia,2014,14,marina_bay,17,dry,street,+1 Lap,TRUE
+alonso,mclaren,2016,4,sochi,6,dry,permanent,+1 Lap,TRUE
+alonso,ferrari,2014,18,interlagos,6,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2016,12,hockenheimring,6,dry,permanent,Finished,TRUE
+ricciardo,renault,2019,5,catalunya,12,dry,permanent,Finished,TRUE
+massa,williams,2014,2,sepang,7,dry,permanent,Finished,TRUE
+leclerc,sauber,2018,5,catalunya,10,dry,permanent,+2 Laps,TRUE
+vettel,ferrari,2016,19,rodriguez,5,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,3,shanghai,16,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,2,sepang,1,dry,permanent,Finished,TRUE
+raikkonen,alfa,2019,3,shanghai,9,dry,permanent,+1 Lap,TRUE
+vergne,toro_rosso,2014,4,shanghai,12,dry,permanent,+1 Lap,TRUE
+perez,force_india,2017,17,americas,8,dry,permanent,+1 Lap,TRUE
+nasr,sauber,2016,10,silverstone,15,wet,permanent,+1 Lap,TRUE
+sainz,mclaren,2019,5,catalunya,8,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,11,hungaroring,5,dry,permanent,Finished,TRUE
+ricciardo,mclaren,2021,14,monza,1,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,3,shanghai,2,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,7,villeneuve,13,dry,street,+1 Lap,TRUE
+grosjean,haas,2017,6,monaco,8,dry,permanent,Finished,TRUE
+stroll,racing_point,2019,16,sochi,11,dry,permanent,Finished,TRUE
+vettel,ferrari,2016,8,BAK,2,dry,street,Finished,TRUE
+kevin_magnussen,mclaren,2014,4,shanghai,13,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2015,11,spa,3,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,21,yas_marina,12,dry,permanent,Finished,TRUE
+alonso,mclaren,2015,12,monza,18,dry,permanent,+6 Laps,TRUE
+ericsson,sauber,2017,20,yas_marina,17,dry,permanent,+1 Lap,TRUE
+bottas,williams,2015,4,bahrain,4,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,4,BAK,3,dry,permanent,Finished,TRUE
+perez,force_india,2016,8,BAK,3,dry,street,Finished,TRUE
+ericsson,sauber,2015,7,villeneuve,14,dry,street,+1 Lap,TRUE
+ocon,alpine,2021,10,silverstone,9,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2020,1,red_bull_ring,9,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2021,10,silverstone,13,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2016,1,albert_park,7,dry,street,Finished,TRUE
+jolyon_palmer,renault,2016,11,hungaroring,12,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2015,14,suzuka,4,dry,permanent,Finished,TRUE
+latifi,williams,2021,5,monaco,15,dry,street,+1 Lap,TRUE
+bottas,mercedes,2020,10,sochi,1,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2015,15,sochi,17,dry,street,Accident,TRUE
+hamilton,mercedes,2014,3,bahrain,1,dry,permanent,Finished,TRUE
+alonso,alpine,2021,15,sochi,6,wet,permanent,Finished,TRUE
+ocon,renault,2020,6,catalunya,13,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2016,3,shanghai,15,dry,permanent,+1 Lap,TRUE
+button,mclaren,2016,12,hockenheimring,8,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2019,18,rodriguez,10,dry,permanent,+1 Lap,TRUE
+vergne,toro_rosso,2014,11,hungaroring,9,wet,permanent,Finished,TRUE
+alonso,alpine,2021,19,interlagos,9,dry,permanent,+1 Lap,TRUE
+ricciardo,renault,2019,18,rodriguez,8,dry,permanent,Finished,TRUE
+wehrlein,sauber,2017,4,sochi,16,dry,permanent,+2 Laps,TRUE
+kevin_magnussen,haas,2018,4,BAK,13,dry,street,Finished,TRUE
+ericsson,sauber,2016,16,sepang,12,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2016,2,bahrain,3,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2015,1,albert_park,7,dry,street,+1 Lap,TRUE
+bottas,mercedes,2021,14,monza,3,dry,permanent,Finished,TRUE
+kvyat,red_bull,2015,9,silverstone,6,wet,permanent,Finished,TRUE
+stroll,racing_point,2020,2,red_bull_ring,7,dry,permanent,Finished,TRUE
+bottas,williams,2015,12,monza,4,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,14,monza,13,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,17,americas,11,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2019,8,ricard,9,dry,permanent,+1 Lap,TRUE
+russell,williams,2021,10,silverstone,12,dry,permanent,+1 Lap,TRUE
+wehrlein,manor,2016,11,hungaroring,19,dry,permanent,+2 Laps,TRUE
+max_verstappen,red_bull,2019,4,BAK,4,dry,permanent,Finished,TRUE
+latifi,williams,2021,14,monza,11,dry,permanent,Finished,TRUE
+rosberg,mercedes,2014,15,suzuka,2,wet,permanent,Finished,TRUE
+grosjean,haas,2019,7,villeneuve,14,dry,street,+1 Lap,TRUE
+ricciardo,red_bull,2017,2,shanghai,4,wet,permanent,Finished,TRUE
+stroll,racing_point,2019,14,monza,12,dry,permanent,+1 Lap,TRUE
+max_verstappen,toro_rosso,2015,16,americas,4,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,17,americas,10,dry,permanent,+1 Lap,TRUE
+alonso,ferrari,2014,5,catalunya,6,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,4,catalunya,1,dry,permanent,Finished,TRUE
+perez,force_india,2014,1,albert_park,10,dry,street,Finished,TRUE
+kubica,williams,2019,20,interlagos,16,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,6,monaco,12,dry,permanent,Finished,TRUE
+hamilton,mercedes,2016,10,silverstone,1,wet,permanent,Finished,TRUE
+kobayashi,caterham,2014,4,shanghai,18,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2017,18,rodriguez,2,dry,permanent,Finished,TRUE
+ocon,renault,2020,8,monza,8,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,3,bahrain,6,dry,permanent,Finished,TRUE
+mick_schumacher,haas,2021,12,spa,16,wet,permanent,Finished,TRUE
+bottas,williams,2016,11,hungaroring,9,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2015,11,spa,10,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,2,sepang,3,dry,permanent,Finished,TRUE
+perez,force_india,2015,11,spa,5,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2018,10,silverstone,3,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2020,17,yas_marina,18,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,6,monaco,18,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2015,11,spa,1,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2018,11,hockenheimring,14,wet,permanent,+1 Lap,TRUE
+bottas,mercedes,2020,15,bahrain,8,dry,permanent,Finished,TRUE
+bottas,mercedes,2019,9,red_bull_ring,3,dry,permanent,Finished,TRUE
+tsunoda,alphatauri,2021,9,red_bull_ring,12,dry,permanent,+1 Lap,TRUE
+ricciardo,renault,2019,9,red_bull_ring,12,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,11,hungaroring,14,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,renault,2016,4,sochi,7,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2018,15,marina_bay,3,dry,permanent,Finished,TRUE
+bottas,williams,2015,11,spa,9,dry,permanent,Power Unit,TRUE
+haryanto,manor,2016,3,shanghai,21,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,5,catalunya,5,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,21,yas_marina,2,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,7,villeneuve,15,dry,street,+2 Laps,TRUE
+hamilton,mercedes,2015,17,rodriguez,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,13,monza,1,dry,permanent,Finished,TRUE
+norris,mclaren,2020,12,portimao,13,dry,permanent,+1 Lap,TRUE
+perez,force_india,2018,13,spa,5,dry,permanent,Finished,TRUE
+kvyat,red_bull,2016,4,sochi,15,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2017,18,rodriguez,8,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,11,hockenheimring,4,wet,permanent,Finished,TRUE
+ricciardo,renault,2019,14,monza,4,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,20,losail,6,dry,permanent,Finished,TRUE
+merhi,manor,2015,5,catalunya,18,dry,permanent,+4 Laps,TRUE
+grosjean,lotus_f1,2015,13,marina_bay,13,dry,street,Tyre,TRUE
+hulkenberg,renault,2017,9,red_bull_ring,13,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,8,BAK,3,dry,street,Finished,TRUE
+gutierrez,sauber,2014,8,red_bull_ring,19,dry,permanent,+2 Laps,TRUE
+kevin_magnussen,renault,2016,8,BAK,14,dry,street,+1 Lap,TRUE
+grosjean,haas,2016,7,villeneuve,14,dry,street,+2 Laps,TRUE
+max_verstappen,red_bull,2016,21,yas_marina,4,dry,permanent,Finished,TRUE
+sainz,renault,2018,20,interlagos,12,dry,permanent,+1 Lap,TRUE
+merhi,manor,2015,15,sochi,13,dry,street,+1 Lap,TRUE
+chilton,marussia,2014,9,silverstone,16,dry,permanent,+2 Laps,TRUE
+rosberg,mercedes,2015,17,rodriguez,1,dry,permanent,Finished,TRUE
+vettel,ferrari,2016,17,suzuka,4,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,3,shanghai,14,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,14,monza,8,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,9,red_bull_ring,1,dry,permanent,Finished,TRUE
+norris,mclaren,2021,5,monaco,3,dry,street,Finished,TRUE
+kevin_magnussen,haas,2020,16,bahrain,15,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,6,monaco,1,dry,street,Finished,TRUE
+ocon,alpine,2021,5,monaco,9,dry,street,+1 Lap,TRUE
+sirotkin,williams,2018,18,americas,13,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2015,19,yas_marina,2,dry,permanent,Finished,TRUE
+chilton,marussia,2014,6,monaco,14,dry,street,+3 Laps,TRUE
+hamilton,mercedes,2019,11,hockenheimring,9,wet,permanent,Finished,TRUE
+jolyon_palmer,renault,2017,5,catalunya,15,dry,permanent,+2 Laps,TRUE
+gasly,alphatauri,2021,19,interlagos,7,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2016,3,shanghai,16,dry,permanent,+1 Lap,TRUE
+jules_bianchi,marussia,2014,1,albert_park,14,dry,street,+8 Laps,TRUE
+russell,williams,2021,5,monaco,14,dry,street,+1 Lap,TRUE
+giovinazzi,alfa,2019,14,monza,9,dry,permanent,+1 Lap,TRUE
+vettel,aston_martin,2021,22,yas_marina,11,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2018,15,marina_bay,5,dry,permanent,Finished,TRUE
+ocon,renault,2020,15,bahrain,9,dry,permanent,Finished,TRUE
+ocon,force_india,2018,19,rodriguez,11,dry,permanent,+2 Laps,TRUE
+sainz,ferrari,2021,7,ricard,11,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,4,BAK,7,dry,permanent,Finished,TRUE
+leclerc,ferrari,2019,4,BAK,5,dry,permanent,Finished,TRUE
+bottas,williams,2014,5,catalunya,5,dry,permanent,Finished,TRUE
+kevin_magnussen,renault,2016,18,americas,12,dry,permanent,+1 Lap,TRUE
+massa,williams,2015,1,albert_park,4,dry,street,Finished,TRUE
+rosberg,mercedes,2016,9,red_bull_ring,4,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,3,shanghai,14,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2014,6,monaco,5,dry,street,+1 Lap,TRUE
+perez,force_india,2014,12,spa,8,dry,permanent,Finished,TRUE
+norris,mclaren,2020,10,sochi,15,dry,permanent,+1 Lap,TRUE
+button,mclaren,2014,18,interlagos,4,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,19,yas_marina,8,dry,permanent,Finished,TRUE
+russell,williams,2021,12,spa,2,wet,permanent,Finished,TRUE
+vettel,ferrari,2015,18,interlagos,3,dry,permanent,Finished,TRUE
+sutil,sauber,2014,1,albert_park,11,dry,street,+1 Lap,TRUE
+perez,racing_point,2020,2,red_bull_ring,6,dry,permanent,Finished,TRUE
+hulkenberg,renault,2019,8,ricard,8,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2018,3,shanghai,6,dry,permanent,Finished,TRUE
+perez,force_india,2018,10,silverstone,10,dry,permanent,Finished,TRUE
+perez,force_india,2018,5,catalunya,9,dry,permanent,+2 Laps,TRUE
+perez,force_india,2017,13,monza,9,dry,permanent,Finished,TRUE
+russell,williams,2021,18,rodriguez,16,dry,permanent,+2 Laps,TRUE
+giovinazzi,alfa,2021,3,portimao,12,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,6,BAK,13,dry,street,Finished,TRUE
+hamilton,mercedes,2020,11,nurburgring,1,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,13,zandvoort,7,dry,permanent,+1 Lap,TRUE
+alonso,ferrari,2014,12,spa,7,dry,permanent,Finished,TRUE
+ricciardo,renault,2019,20,interlagos,6,dry,permanent,Finished,TRUE
+ericsson,caterham,2014,4,shanghai,20,dry,permanent,+2 Laps,TRUE
+perez,force_india,2015,2,sepang,13,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,renault,2016,15,marina_bay,10,dry,street,Finished,TRUE
+ricciardo,red_bull,2017,19,interlagos,6,dry,permanent,Finished,TRUE
+sainz,renault,2018,14,monza,8,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,16,sochi,3,dry,permanent,Finished,TRUE
+vettel,ferrari,2017,5,catalunya,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2015,9,silverstone,1,wet,permanent,Finished,TRUE
+leclerc,ferrari,2021,3,portimao,6,dry,permanent,Finished,TRUE
+stevens,manor,2015,14,suzuka,19,dry,permanent,+3 Laps,TRUE
+rosberg,mercedes,2015,18,interlagos,1,dry,permanent,Finished,TRUE
+rosberg,mercedes,2014,5,catalunya,2,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2020,4,silverstone,14,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,5,catalunya,4,dry,permanent,Finished,TRUE
+albon,toro_rosso,2019,11,hockenheimring,6,wet,permanent,Finished,TRUE
+latifi,williams,2021,16,istanbul,17,wet,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,12,spa,13,wet,permanent,Finished,TRUE
+kvyat,toro_rosso,2014,17,americas,15,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2018,6,monaco,9,dry,permanent,Finished,TRUE
+hamilton,mercedes,2020,5,silverstone,2,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,18,rodriguez,3,dry,permanent,Finished,TRUE
+massa,williams,2016,4,sochi,5,dry,permanent,Finished,TRUE
+ocon,alpine,2021,18,rodriguez,13,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2018,19,rodriguez,15,dry,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2015,19,yas_marina,7,dry,permanent,Finished,TRUE
+mazepin,haas,2021,5,monaco,17,dry,street,+3 Laps,TRUE
+mick_schumacher,haas,2021,9,red_bull_ring,18,dry,permanent,+2 Laps,TRUE
+wehrlein,sauber,2017,15,sepang,17,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,13,zandvoort,14,dry,permanent,+2 Laps,TRUE
+stevens,manor,2015,17,rodriguez,16,dry,permanent,+2 Laps,TRUE
+alonso,mclaren,2018,15,marina_bay,7,dry,permanent,Finished,TRUE
+norris,mclaren,2019,6,monaco,11,dry,street,Finished,TRUE
+massa,williams,2016,13,spa,10,dry,permanent,Finished,TRUE
+ocon,force_india,2017,8,BAK,6,dry,street,Finished,TRUE
+raikkonen,ferrari,2014,18,interlagos,7,dry,permanent,Finished,TRUE
+kubica,williams,2019,3,shanghai,17,dry,permanent,+2 Laps,TRUE
+russell,williams,2019,4,BAK,15,dry,permanent,+2 Laps,TRUE
+kvyat,toro_rosso,2019,16,sochi,12,dry,permanent,Finished,TRUE
+bottas,mercedes,2019,16,sochi,2,dry,permanent,Finished,TRUE
+bottas,mercedes,2018,3,shanghai,2,dry,permanent,Finished,TRUE
+stroll,racing_point,2020,17,yas_marina,10,dry,permanent,Finished,TRUE
+kubica,williams,2019,21,yas_marina,19,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2016,11,hungaroring,1,dry,permanent,Finished,TRUE
+bottas,williams,2014,2,sepang,8,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2019,7,villeneuve,10,dry,street,+1 Lap,TRUE
+gasly,red_bull,2019,9,red_bull_ring,7,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,13,zandvoort,6,dry,permanent,+1 Lap,TRUE
+bottas,williams,2014,14,marina_bay,11,dry,street,Finished,TRUE
+bottas,mercedes,2017,20,yas_marina,1,dry,permanent,Finished,TRUE
+perez,force_india,2014,5,catalunya,9,dry,permanent,+1 Lap,TRUE
+russell,williams,2021,1,bahrain,14,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2016,19,rodriguez,14,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2021,5,monaco,11,dry,street,+1 Lap,TRUE
+stroll,williams,2017,18,rodriguez,6,dry,permanent,+1 Lap,TRUE
+perez,force_india,2014,16,sochi,10,dry,permanent,Finished,TRUE
+rossi,manor,2015,18,interlagos,18,dry,permanent,+4 Laps,TRUE
+sainz,mclaren,2019,7,villeneuve,11,dry,street,+1 Lap,TRUE
+kvyat,alphatauri,2020,6,catalunya,12,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2020,5,silverstone,9,dry,permanent,Finished,TRUE
+hulkenberg,renault,2019,4,BAK,14,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,3,shanghai,13,dry,permanent,+1 Lap,TRUE
+button,mclaren,2016,6,monaco,9,wet,street,+1 Lap,TRUE
+alonso,mclaren,2017,8,BAK,9,dry,street,Finished,TRUE
+sainz,mclaren,2020,5,silverstone,13,dry,permanent,Finished,TRUE
+bottas,mercedes,2020,1,red_bull_ring,1,dry,permanent,Finished,TRUE
+hamilton,mercedes,2016,6,monaco,1,wet,street,Finished,TRUE
+giovinazzi,alfa,2020,10,sochi,11,dry,permanent,+1 Lap,TRUE
+haryanto,manor,2016,9,red_bull_ring,16,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2018,5,catalunya,3,dry,permanent,Finished,TRUE
+sainz,mclaren,2020,4,silverstone,13,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,20,losail,14,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2017,6,monaco,10,dry,permanent,Finished,TRUE
+perez,force_india,2018,14,monza,7,dry,permanent,Finished,TRUE
+ocon,renault,2020,17,yas_marina,9,dry,permanent,Finished,TRUE
+hamilton,mercedes,2019,10,silverstone,1,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2015,7,villeneuve,4,dry,street,Finished,TRUE
+perez,red_bull,2021,3,portimao,4,dry,permanent,Finished,TRUE
+bottas,williams,2014,13,monza,4,dry,permanent,Finished,TRUE
+bottas,mercedes,2020,14,istanbul,14,wet,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2017,13,monza,4,dry,permanent,Finished,TRUE
+alonso,mclaren,2017,5,catalunya,12,dry,permanent,+2 Laps,TRUE
+max_verstappen,red_bull,2016,17,suzuka,2,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,21,jeddah,6,dry,street,Finished,TRUE
+alonso,alpine,2021,16,istanbul,16,wet,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2016,19,rodriguez,3,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,12,spa,4,dry,permanent,Finished,TRUE
+russell,williams,2021,11,hungaroring,8,wet,permanent,Finished,TRUE
+sainz,toro_rosso,2015,1,albert_park,9,dry,street,+1 Lap,TRUE
+raikkonen,alfa,2021,11,hungaroring,10,wet,permanent,+1 Lap,TRUE
+hulkenberg,renault,2017,10,silverstone,6,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,16,sochi,5,dry,permanent,Finished,TRUE
+hamilton,mercedes,2016,13,spa,3,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,4,catalunya,11,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2017,18,rodriguez,4,dry,permanent,Finished,TRUE
+merhi,manor,2015,2,sepang,15,dry,permanent,+3 Laps,TRUE
+stroll,racing_point,2019,9,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2020,5,silverstone,4,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,17,suzuka,1,dry,permanent,Finished,TRUE
+massa,williams,2017,1,albert_park,6,dry,street,Finished,TRUE
+raikkonen,ferrari,2017,7,villeneuve,7,dry,street,Finished,TRUE
+hulkenberg,renault,2019,14,monza,5,dry,permanent,Finished,TRUE
+stroll,williams,2017,9,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+bottas,williams,2014,19,yas_marina,3,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,10,silverstone,11,dry,permanent,Finished,TRUE
+perez,force_india,2014,8,red_bull_ring,6,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,1,albert_park,6,dry,street,Finished,TRUE
+grosjean,haas,2019,5,catalunya,10,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,16,sochi,6,dry,permanent,Finished,TRUE
+albon,red_bull,2020,3,hungaroring,5,wet,permanent,Finished,TRUE
+latifi,williams,2021,19,interlagos,16,dry,permanent,+1 Lap,TRUE
+wehrlein,sauber,2017,13,monza,16,dry,permanent,+2 Laps,TRUE
+stroll,aston_martin,2021,22,yas_marina,13,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,9,red_bull_ring,9,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2018,13,spa,6,dry,permanent,Finished,TRUE
+raikkonen,alfa,2019,19,americas,11,dry,permanent,+1 Lap,TRUE
+ericsson,caterham,2014,10,hockenheimring,18,dry,permanent,+2 Laps,TRUE
+kvyat,red_bull,2015,15,sochi,5,dry,street,Finished,TRUE
+max_verstappen,red_bull,2020,5,silverstone,1,dry,permanent,Finished,TRUE
+gutierrez,sauber,2014,4,shanghai,16,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2016,9,red_bull_ring,8,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,12,monza,8,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2021,19,interlagos,3,dry,permanent,Finished,TRUE
+perez,racing_point,2019,6,monaco,12,dry,street,+1 Lap,TRUE
+max_verstappen,toro_rosso,2015,5,catalunya,11,dry,permanent,+1 Lap,TRUE
+button,mclaren,2015,16,americas,6,dry,permanent,Finished,TRUE
+perez,racing_point,2019,14,monza,7,dry,permanent,Finished,TRUE
+sainz,renault,2018,18,americas,7,dry,permanent,Finished,TRUE
+alonso,mclaren,2016,13,spa,7,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2016,17,suzuka,8,dry,permanent,Finished,TRUE
+sainz,mclaren,2020,6,catalunya,6,dry,permanent,+1 Lap,TRUE
+stevens,manor,2015,12,monza,15,dry,permanent,+2 Laps,TRUE
+gasly,toro_rosso,2019,21,yas_marina,18,dry,permanent,+2 Laps,TRUE
+grosjean,lotus_f1,2014,8,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2016,4,sochi,11,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2020,6,catalunya,9,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,20,losail,16,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2019,11,hockenheimring,12,wet,permanent,Finished,TRUE
+perez,force_india,2015,3,shanghai,11,dry,permanent,+1 Lap,TRUE
+sirotkin,williams,2018,14,monza,10,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,16,sochi,9,dry,permanent,Finished,TRUE
+stroll,racing_point,2019,1,albert_park,9,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2018,2,bahrain,2,dry,permanent,Finished,TRUE
+chilton,marussia,2014,5,catalunya,19,dry,permanent,+2 Laps,TRUE
+vandoorne,mclaren,2017,16,suzuka,14,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,3,bahrain,2,dry,permanent,Finished,TRUE
+stevens,manor,2015,18,interlagos,17,dry,permanent,+4 Laps,TRUE
+perez,racing_point,2020,9,mugello,5,dry,permanent,Finished,TRUE
+norris,mclaren,2020,14,istanbul,8,wet,permanent,Finished,TRUE
+vettel,ferrari,2018,8,ricard,5,dry,permanent,Finished,TRUE
+stroll,williams,2018,9,red_bull_ring,14,dry,permanent,+2 Laps,TRUE
+alonso,mclaren,2017,19,interlagos,8,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2017,13,monza,12,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2021,16,istanbul,6,wet,permanent,Finished,TRUE
+kevin_magnussen,haas,2017,4,sochi,13,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2021,6,BAK,3,dry,street,Finished,TRUE
+hamilton,mercedes,2021,6,BAK,15,dry,street,Finished,TRUE
+stroll,racing_point,2019,4,BAK,9,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2020,7,spa,17,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,2,imola,13,wet,permanent,Finished,TRUE
+stroll,aston_martin,2021,17,americas,12,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,8,ricard,13,dry,permanent,+1 Lap,TRUE
+massa,williams,2016,17,suzuka,9,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,2,imola,4,wet,permanent,Finished,TRUE
+stroll,williams,2017,13,monza,7,dry,permanent,Finished,TRUE
+russell,williams,2021,13,zandvoort,17,dry,permanent,Gearbox,TRUE
+tsunoda,alphatauri,2021,11,hungaroring,6,wet,permanent,Finished,TRUE
+button,mclaren,2015,3,shanghai,14,dry,permanent,+1 Lap,TRUE
+ricciardo,mclaren,2021,20,losail,12,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,19,rodriguez,9,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2015,10,hungaroring,6,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,10,silverstone,8,dry,permanent,Finished,TRUE
+bottas,williams,2016,20,interlagos,11,wet,permanent,Finished,TRUE
+hulkenberg,renault,2018,6,monaco,8,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,3,bahrain,4,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,7,villeneuve,2,dry,street,Finished,TRUE
+gasly,red_bull,2019,3,shanghai,6,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,13,monza,14,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2017,6,monaco,3,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,20,interlagos,3,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2020,15,bahrain,17,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2017,1,albert_park,5,dry,street,Finished,TRUE
+alonso,alpine,2021,12,spa,11,wet,permanent,Finished,TRUE
+vandoorne,mclaren,2018,4,BAK,9,dry,street,Finished,TRUE
+massa,williams,2014,11,hungaroring,5,wet,permanent,Finished,TRUE
+bottas,williams,2014,12,spa,3,dry,permanent,Finished,TRUE
+albon,toro_rosso,2019,3,shanghai,10,dry,permanent,+1 Lap,TRUE
+max_verstappen,toro_rosso,2015,17,rodriguez,9,dry,permanent,Finished,TRUE
+vettel,ferrari,2016,20,interlagos,5,wet,permanent,Finished,TRUE
+wehrlein,manor,2016,15,marina_bay,16,dry,street,+1 Lap,TRUE
+wehrlein,sauber,2017,11,hungaroring,15,dry,permanent,+2 Laps,TRUE
+mazepin,haas,2021,17,americas,17,dry,permanent,+2 Laps,TRUE
+max_verstappen,red_bull,2019,6,monaco,4,dry,street,Finished,TRUE
+vettel,ferrari,2018,20,interlagos,6,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2017,9,red_bull_ring,3,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,15,marina_bay,17,dry,street,Finished,TRUE
+kevin_magnussen,mclaren,2014,15,suzuka,14,wet,permanent,+1 Lap,TRUE
+bottas,mercedes,2018,10,silverstone,4,dry,permanent,Finished,TRUE
+nasr,sauber,2016,21,yas_marina,16,dry,permanent,+1 Lap,TRUE
+albon,red_bull,2019,19,americas,5,dry,permanent,Finished,TRUE
+russell,williams,2019,1,albert_park,16,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2016,8,BAK,5,dry,street,Finished,TRUE
+tsunoda,alphatauri,2021,20,losail,13,dry,permanent,+1 Lap,TRUE
+kvyat,alphatauri,2020,9,mugello,7,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2016,17,suzuka,13,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,22,yas_marina,14,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2016,7,villeneuve,11,dry,street,+1 Lap,TRUE
+chilton,marussia,2014,11,hungaroring,16,wet,permanent,+1 Lap,TRUE
+bottas,mercedes,2020,8,monza,5,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2014,5,catalunya,8,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2016,10,silverstone,13,wet,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,7,villeneuve,10,dry,street,Finished,TRUE
+button,mclaren,2015,5,catalunya,16,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,6,monaco,15,dry,street,+1 Lap,TRUE
+russell,williams,2019,3,shanghai,16,dry,permanent,+2 Laps,TRUE
+grosjean,haas,2016,2,bahrain,5,dry,permanent,Finished,TRUE
+stroll,williams,2018,12,hungaroring,17,dry,permanent,+2 Laps,TRUE
+rosberg,mercedes,2014,19,yas_marina,14,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2018,18,americas,12,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,16,istanbul,20,wet,permanent,+2 Laps,TRUE
+vettel,ferrari,2020,15,bahrain,13,dry,permanent,+1 Lap,TRUE
+sainz,mclaren,2019,19,americas,8,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2018,12,hungaroring,3,dry,permanent,Finished,TRUE
+grosjean,haas,2017,5,catalunya,10,dry,permanent,+1 Lap,TRUE
+massa,williams,2015,8,red_bull_ring,3,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,8,BAK,2,dry,street,Finished,TRUE
+perez,red_bull,2021,5,monaco,4,dry,street,Finished,TRUE
+alonso,ferrari,2014,11,hungaroring,2,wet,permanent,Finished,TRUE
+stroll,aston_martin,2021,5,monaco,8,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2019,21,yas_marina,1,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,7,villeneuve,13,dry,street,+2 Laps,TRUE
+bottas,mercedes,2021,22,yas_marina,6,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,11,hockenheimring,11,wet,permanent,Finished,TRUE
+stroll,williams,2017,20,yas_marina,18,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2018,8,ricard,7,dry,permanent,Finished,TRUE
+button,mclaren,2014,13,monza,8,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,8,red_bull_ring,3,dry,permanent,Finished,TRUE
+perez,force_india,2017,2,shanghai,9,wet,permanent,+1 Lap,TRUE
+hamilton,mercedes,2021,13,zandvoort,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,5,catalunya,1,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,17,suzuka,15,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2021,21,jeddah,1,dry,street,Finished,TRUE
+rosberg,mercedes,2014,7,villeneuve,2,dry,street,Finished,TRUE
+kobayashi,caterham,2014,15,suzuka,19,wet,permanent,+1 Lap,TRUE
+pietro_fittipaldi,haas,2020,17,yas_marina,19,dry,permanent,+2 Laps,TRUE
+gasly,toro_rosso,2018,9,red_bull_ring,11,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,16,suzuka,10,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,12,portimao,18,dry,permanent,+2 Laps,TRUE
+jules_bianchi,marussia,2014,9,silverstone,14,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2020,2,red_bull_ring,15,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2021,20,losail,2,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2014,2,sepang,12,dry,permanent,+1 Lap,TRUE
+haryanto,manor,2016,11,hungaroring,21,dry,permanent,+2 Laps,TRUE
+kvyat,red_bull,2015,5,catalunya,10,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2021,12,spa,18,wet,permanent,Finished,TRUE
+hulkenberg,force_india,2016,10,silverstone,7,wet,permanent,Finished,TRUE
+vettel,ferrari,2019,10,silverstone,16,dry,permanent,+1 Lap,TRUE
+perez,force_india,2018,3,shanghai,12,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2017,7,villeneuve,12,dry,street,+1 Lap,TRUE
+albon,red_bull,2019,15,marina_bay,6,dry,street,Finished,TRUE
+wehrlein,sauber,2017,10,silverstone,17,dry,permanent,+1 Lap,TRUE
+russell,williams,2021,16,istanbul,15,wet,permanent,+1 Lap,TRUE
+raikkonen,alfa,2020,17,yas_marina,12,dry,permanent,+1 Lap,TRUE
+sainz,renault,2018,3,shanghai,9,dry,permanent,Finished,TRUE
+ricciardo,renault,2019,8,ricard,11,dry,permanent,+1 Lap,TRUE
+maldonado,lotus_f1,2015,13,marina_bay,12,dry,street,Finished,TRUE
+vettel,ferrari,2017,3,bahrain,1,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,18,americas,6,dry,permanent,Finished,TRUE
+brendon_hartley,toro_rosso,2018,21,yas_marina,12,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2019,17,suzuka,14,dry,permanent,+1 Lap,TRUE
+massa,williams,2014,3,bahrain,7,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,13,zandvoort,5,dry,permanent,+1 Lap,TRUE
+kvyat,red_bull,2015,17,rodriguez,4,dry,permanent,Finished,TRUE
+norris,mclaren,2021,13,zandvoort,10,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,21,yas_marina,17,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2019,19,americas,15,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,16,suzuka,6,dry,permanent,Finished,TRUE
+leclerc,sauber,2018,1,albert_park,13,dry,street,Finished,TRUE
+hamilton,mercedes,2016,4,sochi,2,dry,permanent,Finished,TRUE
+gutierrez,sauber,2014,15,suzuka,13,wet,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2018,14,monza,5,dry,permanent,Finished,TRUE
+perez,force_india,2018,11,hockenheimring,7,wet,permanent,Finished,TRUE
+grosjean,haas,2019,14,monza,16,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2016,19,rodriguez,4,dry,permanent,Finished,TRUE
+norris,mclaren,2020,15,bahrain,4,dry,permanent,Finished,TRUE
+ocon,alpine,2021,4,catalunya,9,dry,permanent,+1 Lap,TRUE
+perez,force_india,2015,4,bahrain,8,dry,permanent,+1 Lap,TRUE
+hulkenberg,racing_point,2020,11,nurburgring,8,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,5,catalunya,1,dry,permanent,Finished,TRUE
+gasly,alphatauri,2020,1,red_bull_ring,7,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,3,hungaroring,15,wet,permanent,+1 Lap,TRUE
+stroll,williams,2017,5,catalunya,16,dry,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2015,12,monza,7,dry,permanent,+1 Lap,TRUE
+stroll,williams,2018,17,suzuka,17,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,6,BAK,14,dry,street,Finished,TRUE
+ricciardo,renault,2019,19,americas,6,dry,permanent,Finished,TRUE
+norris,mclaren,2021,6,BAK,5,dry,street,Finished,TRUE
+grosjean,haas,2018,21,yas_marina,9,dry,permanent,+1 Lap,TRUE
+bottas,williams,2015,2,sepang,5,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,8,ricard,6,dry,permanent,Finished,TRUE
+mazepin,haas,2021,3,portimao,19,dry,permanent,+2 Laps,TRUE
+ricciardo,renault,2020,14,istanbul,10,wet,permanent,Finished,TRUE
+rosberg,mercedes,2015,4,bahrain,3,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,11,hockenheimring,1,wet,permanent,Finished,TRUE
+alonso,mclaren,2015,19,yas_marina,17,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2020,10,sochi,3,dry,permanent,Finished,TRUE
+vettel,ferrari,2016,1,albert_park,3,dry,street,Finished,TRUE
+perez,force_india,2018,12,hungaroring,14,dry,permanent,+1 Lap,TRUE
+gasly,red_bull,2019,2,bahrain,8,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2019,3,shanghai,15,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2019,6,monaco,1,dry,street,Finished,TRUE
+max_verstappen,red_bull,2018,8,ricard,2,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,16,istanbul,4,wet,permanent,Finished,TRUE
+norris,mclaren,2019,12,hungaroring,9,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2018,7,villeneuve,12,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2021,16,istanbul,5,wet,permanent,Finished,TRUE
+vettel,ferrari,2018,17,suzuka,6,dry,permanent,Finished,TRUE
+raikkonen,alfa,2019,7,villeneuve,15,dry,street,+1 Lap,TRUE
+jolyon_palmer,renault,2017,9,red_bull_ring,11,dry,permanent,+1 Lap,TRUE
+bottas,williams,2014,3,bahrain,8,dry,permanent,Finished,TRUE
+stevens,manor,2015,3,shanghai,15,dry,permanent,+2 Laps,TRUE
+sainz,toro_rosso,2017,6,monaco,6,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2019,6,monaco,7,dry,street,Finished,TRUE
+russell,williams,2019,18,rodriguez,16,dry,permanent,+2 Laps,TRUE
+kevin_magnussen,haas,2018,16,sochi,8,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,5,catalunya,12,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2019,12,hungaroring,11,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2015,19,yas_marina,11,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,1,bahrain,15,dry,permanent,+1 Lap,TRUE
+bottas,williams,2014,4,shanghai,7,dry,permanent,Finished,TRUE
+perez,force_india,2018,1,albert_park,11,dry,street,Finished,TRUE
+nasr,sauber,2016,2,bahrain,14,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2020,12,portimao,5,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,17,americas,11,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,8,ricard,3,dry,permanent,Finished,TRUE
+stroll,williams,2017,10,silverstone,16,dry,permanent,+1 Lap,TRUE
+bottas,williams,2016,18,americas,16,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2018,13,spa,2,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,5,catalunya,11,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2015,9,silverstone,2,wet,permanent,Finished,TRUE
+sainz,ferrari,2021,11,hungaroring,3,wet,permanent,Finished,TRUE
+mick_schumacher,haas,2021,10,silverstone,18,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2016,21,yas_marina,1,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,10,silverstone,2,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,19,yas_marina,6,dry,permanent,Finished,TRUE
+raikkonen,alfa,2019,17,suzuka,12,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2018,8,ricard,11,dry,permanent,+1 Lap,TRUE
+merhi,manor,2015,10,hungaroring,15,dry,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2014,12,spa,10,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,5,monaco,6,dry,street,Finished,TRUE
+vettel,aston_martin,2021,7,ricard,9,dry,permanent,Finished,TRUE
+sainz,mclaren,2020,12,portimao,6,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2015,15,sochi,15,dry,street,Suspension,TRUE
+brendon_hartley,toro_rosso,2018,15,marina_bay,17,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,3,bahrain,6,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,18,americas,14,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,6,BAK,11,dry,street,Finished,TRUE
+russell,williams,2019,20,interlagos,12,dry,permanent,Finished,TRUE
+ocon,force_india,2018,7,villeneuve,9,dry,street,+1 Lap,TRUE
+sutil,sauber,2014,8,red_bull_ring,13,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2018,3,shanghai,7,dry,permanent,Finished,TRUE
+norris,mclaren,2020,7,spa,7,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,7,villeneuve,4,dry,street,Finished,TRUE
+russell,williams,2020,3,hungaroring,18,wet,permanent,+1 Lap,TRUE
+norris,mclaren,2021,8,red_bull_ring,5,dry,permanent,+1 Lap,TRUE
+wehrlein,manor,2016,12,hockenheimring,17,dry,permanent,+2 Laps,TRUE
+alonso,mclaren,2016,17,suzuka,16,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2019,16,sochi,8,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,10,silverstone,5,dry,permanent,Finished,TRUE
+bottas,williams,2014,7,villeneuve,7,dry,street,Finished,TRUE
+hulkenberg,renault,2017,13,monza,13,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2019,1,albert_park,15,dry,permanent,+1 Lap,TRUE
+sainz,ferrari,2021,10,silverstone,6,dry,permanent,Finished,TRUE
+merhi,manor,2015,19,yas_marina,19,dry,permanent,+3 Laps,TRUE
+kvyat,red_bull,2015,4,bahrain,9,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,10,silverstone,1,dry,permanent,Finished,TRUE
+perez,force_india,2014,3,bahrain,3,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,19,yas_marina,1,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2015,15,sochi,16,dry,street,Brakes,TRUE
+kvyat,toro_rosso,2014,5,catalunya,14,dry,permanent,+1 Lap,TRUE
+mick_schumacher,haas,2021,1,bahrain,16,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,7,villeneuve,9,dry,street,+1 Lap,TRUE
+sainz,renault,2018,4,BAK,5,dry,street,Finished,TRUE
+giovinazzi,alfa,2019,21,yas_marina,16,dry,permanent,+1 Lap,TRUE
+albon,red_bull,2019,13,spa,5,dry,permanent,Finished,TRUE
+perez,force_india,2014,14,marina_bay,7,dry,street,Finished,TRUE
+hulkenberg,force_india,2014,2,sepang,5,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2020,5,silverstone,17,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2019,18,rodriguez,1,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2018,6,monaco,7,dry,permanent,Finished,TRUE
+jules_bianchi,marussia,2014,8,red_bull_ring,15,dry,permanent,+2 Laps,TRUE
+russell,williams,2020,10,sochi,18,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,18,interlagos,9,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,16,sepang,3,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2019,2,bahrain,11,dry,permanent,Finished,TRUE
+kubica,williams,2019,12,hungaroring,19,dry,permanent,+3 Laps,TRUE
+kvyat,alphatauri,2020,5,silverstone,10,dry,permanent,Finished,TRUE
+max_verstappen,toro_rosso,2015,8,red_bull_ring,8,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2015,16,americas,2,dry,permanent,Finished,TRUE
+massa,williams,2015,11,spa,6,dry,permanent,Finished,TRUE
+alonso,alpine,2021,20,losail,3,dry,permanent,Finished,TRUE
+bottas,mercedes,2019,6,monaco,3,dry,street,Finished,TRUE
+kevin_magnussen,haas,2020,11,nurburgring,13,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2017,8,BAK,7,dry,street,Finished,TRUE
+bottas,mercedes,2019,1,albert_park,1,dry,permanent,Finished,TRUE
+bottas,williams,2014,10,hockenheimring,2,dry,permanent,Finished,TRUE
+alonso,mclaren,2017,18,rodriguez,10,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,5,silverstone,19,dry,permanent,+1 Lap,TRUE
+kobayashi,caterham,2014,13,monza,17,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2016,5,catalunya,13,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,7,villeneuve,15,dry,street,+2 Laps,TRUE
+grosjean,haas,2017,20,yas_marina,11,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2015,4,bahrain,1,dry,permanent,Finished,TRUE
+leclerc,ferrari,2019,7,villeneuve,3,dry,street,Finished,TRUE
+perez,red_bull,2021,8,red_bull_ring,4,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,18,interlagos,8,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2015,6,monaco,11,dry,street,Finished,TRUE
+max_verstappen,red_bull,2021,12,spa,1,wet,permanent,Finished,TRUE
+grosjean,haas,2019,9,red_bull_ring,16,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,15,marina_bay,12,dry,permanent,+1 Lap,TRUE
+alonso,alpine,2021,11,hungaroring,4,wet,permanent,Finished,TRUE
+jolyon_palmer,renault,2016,16,sepang,10,dry,permanent,Finished,TRUE
+sainz,renault,2018,9,red_bull_ring,12,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,15,marina_bay,11,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2017,11,hungaroring,16,dry,permanent,+2 Laps,TRUE
+sainz,mclaren,2020,11,nurburgring,5,dry,permanent,Finished,TRUE
+bottas,williams,2016,12,hockenheimring,9,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2016,12,hockenheimring,15,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2019,5,catalunya,2,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,17,americas,9,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,15,sochi,18,dry,street,Throttle,TRUE
+vergne,toro_rosso,2014,18,interlagos,13,dry,permanent,+1 Lap,TRUE
+gutierrez,haas,2016,13,spa,12,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,21,yas_marina,2,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,1,albert_park,6,dry,street,Finished,TRUE
+sainz,mclaren,2019,6,monaco,6,dry,street,Finished,TRUE
+leclerc,sauber,2018,16,sochi,7,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,15,marina_bay,17,dry,street,+1 Lap,TRUE
+nasr,sauber,2016,4,sochi,16,dry,permanent,+1 Lap,TRUE
+jolyon_palmer,renault,2016,15,marina_bay,15,dry,street,+1 Lap,TRUE
+rosberg,mercedes,2014,1,albert_park,1,dry,street,Finished,TRUE
+rosberg,mercedes,2014,16,sochi,2,dry,permanent,Finished,TRUE
+tsunoda,alphatauri,2021,1,bahrain,9,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,3,shanghai,4,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,3,shanghai,10,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2015,7,villeneuve,10,dry,street,+1 Lap,TRUE
+kvyat,alphatauri,2020,15,bahrain,11,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2021,18,rodriguez,10,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2020,13,imola,13,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,3,portimao,3,dry,permanent,Finished,TRUE
+mazepin,haas,2021,18,rodriguez,18,dry,permanent,+3 Laps,TRUE
+kvyat,toro_rosso,2014,14,marina_bay,14,dry,street,Finished,TRUE
+max_verstappen,toro_rosso,2015,11,spa,8,dry,permanent,Finished,TRUE
+massa,williams,2017,14,marina_bay,11,wet,street,Finished,TRUE
+ricciardo,red_bull,2018,5,catalunya,5,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,18,americas,3,dry,permanent,Finished,TRUE
+kevin_magnussen,mclaren,2014,14,marina_bay,10,dry,street,Finished,TRUE
+vandoorne,mclaren,2017,15,sepang,7,dry,permanent,+1 Lap,TRUE
+nasr,sauber,2015,3,shanghai,8,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,2,red_bull_ring,11,dry,permanent,+1 Lap,TRUE
+stroll,williams,2018,5,catalunya,11,dry,permanent,+2 Laps,TRUE
+albon,toro_rosso,2019,1,albert_park,14,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,12,hungaroring,17,dry,permanent,+2 Laps,TRUE
+ricciardo,red_bull,2014,11,hungaroring,1,wet,permanent,Finished,TRUE
+gasly,red_bull,2019,12,hungaroring,6,dry,permanent,+1 Lap,TRUE
+gutierrez,sauber,2014,18,interlagos,14,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,1,albert_park,5,dry,permanent,Finished,TRUE
+kevin_magnussen,renault,2016,11,hungaroring,15,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2017,13,monza,15,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2014,9,silverstone,12,dry,permanent,+1 Lap,TRUE
+button,mclaren,2016,20,interlagos,16,wet,permanent,Finished,TRUE
+vettel,red_bull,2014,15,suzuka,3,wet,permanent,Finished,TRUE
+jules_bianchi,marussia,2014,5,catalunya,18,dry,permanent,+2 Laps,TRUE
+raikkonen,ferrari,2017,1,albert_park,4,dry,street,Finished,TRUE
+hulkenberg,force_india,2015,18,interlagos,6,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,8,red_bull_ring,7,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,13,marina_bay,4,dry,street,Finished,TRUE
+leclerc,ferrari,2019,16,sochi,3,dry,permanent,Finished,TRUE
+stroll,williams,2018,18,americas,14,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2020,6,catalunya,3,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2020,11,nurburgring,2,dry,permanent,Finished,TRUE
+vettel,ferrari,2017,4,sochi,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,17,suzuka,1,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,9,red_bull_ring,1,dry,permanent,Finished,TRUE
+norris,mclaren,2020,17,yas_marina,5,dry,permanent,Finished,TRUE
+vergne,toro_rosso,2014,7,villeneuve,8,dry,street,Finished,TRUE
+ericsson,sauber,2016,21,yas_marina,15,dry,permanent,+1 Lap,TRUE
+tsunoda,alphatauri,2021,17,americas,9,dry,permanent,+1 Lap,TRUE
+kvyat,alphatauri,2020,13,imola,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,10,silverstone,2,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,12,monza,17,dry,permanent,+3 Laps,TRUE
+bottas,mercedes,2017,13,monza,2,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2015,9,silverstone,8,wet,permanent,+1 Lap,TRUE
+rosberg,mercedes,2016,11,hungaroring,2,dry,permanent,Finished,TRUE
+vettel,ferrari,2017,11,hungaroring,1,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,4,BAK,4,dry,street,Finished,TRUE
+vettel,ferrari,2017,6,monaco,1,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2014,9,silverstone,9,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2015,12,monza,5,dry,permanent,Finished,TRUE
+mazepin,haas,2021,8,red_bull_ring,18,dry,permanent,+3 Laps,TRUE
+ricciardo,renault,2020,16,bahrain,5,dry,permanent,Finished,TRUE
+max_verstappen,toro_rosso,2015,2,sepang,7,dry,permanent,Finished,TRUE
+albon,toro_rosso,2019,6,monaco,8,dry,street,Finished,TRUE
+bottas,williams,2015,19,yas_marina,13,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,4,sochi,11,dry,permanent,+1 Lap,TRUE
+gasly,red_bull,2019,1,albert_park,11,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2017,10,silverstone,11,dry,permanent,+1 Lap,TRUE
+gutierrez,sauber,2014,1,albert_park,12,dry,street,+1 Lap,TRUE
+bottas,mercedes,2017,19,interlagos,2,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2018,14,monza,14,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2019,17,suzuka,13,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,7,villeneuve,6,dry,street,Finished,TRUE
+massa,williams,2015,4,bahrain,10,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2018,4,BAK,11,dry,street,Finished,TRUE
+button,mclaren,2014,15,suzuka,5,wet,permanent,Finished,TRUE
+gutierrez,haas,2016,11,hungaroring,13,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2019,1,albert_park,12,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2021,5,monaco,1,dry,street,Finished,TRUE
+raikkonen,alfa,2019,1,albert_park,8,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2014,3,bahrain,2,dry,permanent,Finished,TRUE
+stevens,caterham,2014,19,yas_marina,17,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,13,monza,10,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,1,albert_park,4,dry,street,Finished,TRUE
+leclerc,ferrari,2021,6,BAK,4,dry,street,Finished,TRUE
+grosjean,lotus_f1,2015,17,rodriguez,10,dry,permanent,Finished,TRUE
+gasly,alphatauri,2020,10,sochi,9,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,9,red_bull_ring,19,dry,permanent,+2 Laps,TRUE
+raikkonen,alfa,2021,9,red_bull_ring,15,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,15,sepang,8,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2015,11,spa,2,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2017,18,rodriguez,12,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,15,sochi,16,wet,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,14,monza,1,dry,permanent,Finished,TRUE
+grosjean,haas,2017,16,suzuka,9,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,4,bahrain,6,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2018,1,albert_park,4,dry,street,Finished,TRUE
+alonso,mclaren,2015,4,bahrain,11,dry,permanent,+1 Lap,TRUE
+vettel,red_bull,2014,13,monza,6,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2017,1,albert_park,8,dry,street,+1 Lap,TRUE
+perez,racing_point,2020,7,spa,10,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,1,albert_park,1,dry,street,Finished,TRUE
+kevin_magnussen,renault,2016,12,hockenheimring,16,dry,permanent,+1 Lap,TRUE
+perez,red_bull,2021,1,bahrain,5,dry,permanent,Finished,TRUE
+leclerc,ferrari,2020,13,imola,5,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2020,10,sochi,12,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,17,yas_marina,17,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,18,rodriguez,18,dry,permanent,+2 Laps,TRUE
+mick_schumacher,haas,2021,4,catalunya,18,dry,permanent,+2 Laps,TRUE
+max_verstappen,red_bull,2018,7,villeneuve,3,dry,street,Finished,TRUE
+ocon,renault,2020,4,silverstone,6,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,2,sepang,3,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,20,yas_marina,2,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2015,5,catalunya,5,dry,permanent,Finished,TRUE
+stevens,manor,2015,6,monaco,17,dry,street,+2 Laps,TRUE
+max_verstappen,toro_rosso,2016,2,bahrain,6,dry,permanent,Finished,TRUE
+grosjean,haas,2018,20,interlagos,8,dry,permanent,Finished,TRUE
+ocon,alpine,2021,11,hungaroring,1,wet,permanent,Finished,TRUE
+stroll,williams,2018,2,bahrain,14,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,13,spa,1,dry,permanent,Finished,TRUE
+hulkenberg,renault,2019,10,silverstone,10,dry,permanent,Finished,TRUE
+grosjean,haas,2020,7,spa,15,dry,permanent,Finished,TRUE
+mick_schumacher,haas,2021,13,zandvoort,18,dry,permanent,+3 Laps,TRUE
+russell,williams,2021,14,monza,9,dry,permanent,Finished,TRUE
+kvyat,alphatauri,2020,11,nurburgring,15,dry,permanent,Finished,TRUE
+sainz,renault,2017,19,interlagos,11,dry,permanent,+1 Lap,TRUE
+max_verstappen,toro_rosso,2015,18,interlagos,9,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,3,shanghai,5,dry,permanent,Finished,TRUE
+rosberg,mercedes,2016,14,monza,1,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,7,villeneuve,3,dry,street,Finished,TRUE
+vettel,ferrari,2020,4,silverstone,10,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,13,spa,10,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2021,21,jeddah,7,dry,street,Finished,TRUE
+chilton,marussia,2014,1,albert_park,13,dry,street,+2 Laps,TRUE
+aitken,williams,2020,16,bahrain,16,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,9,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2018,4,BAK,7,dry,street,Finished,TRUE
+kvyat,toro_rosso,2019,15,marina_bay,15,dry,street,Finished,TRUE
+button,mclaren,2016,10,silverstone,12,wet,permanent,+1 Lap,TRUE
+nasr,sauber,2016,3,shanghai,20,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2016,13,spa,1,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,6,catalunya,14,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2019,13,spa,9,dry,permanent,Finished,TRUE
+ocon,renault,2020,3,hungaroring,14,wet,permanent,+1 Lap,TRUE
+alonso,mclaren,2016,15,marina_bay,7,dry,street,Finished,TRUE
+ocon,force_india,2018,9,red_bull_ring,6,dry,permanent,+1 Lap,TRUE
+mazepin,haas,2021,4,catalunya,19,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2017,1,albert_park,3,dry,street,Finished,TRUE
+rosberg,mercedes,2016,10,silverstone,3,wet,permanent,Finished,TRUE
+hulkenberg,renault,2018,2,bahrain,6,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,17,americas,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2015,6,monaco,3,dry,street,Finished,TRUE
+perez,force_india,2018,16,sochi,10,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,9,red_bull_ring,18,dry,permanent,+2 Laps,TRUE
+perez,racing_point,2019,16,sochi,7,dry,permanent,Finished,TRUE
+hulkenberg,renault,2017,2,shanghai,12,wet,permanent,+1 Lap,TRUE
+stroll,aston_martin,2021,21,jeddah,11,dry,street,Finished,TRUE
+max_verstappen,red_bull,2020,17,yas_marina,1,dry,permanent,Finished,TRUE
+ocon,alpine,2021,21,jeddah,4,dry,street,Finished,TRUE
+giovinazzi,alfa,2020,16,bahrain,13,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2014,17,americas,11,dry,permanent,+1 Lap,TRUE
+wehrlein,manor,2016,5,catalunya,16,dry,permanent,+1 Lap,TRUE
+latifi,williams,2021,10,silverstone,14,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2016,1,albert_park,9,dry,street,Finished,TRUE
+rossi,manor,2015,16,americas,12,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,12,hungaroring,15,dry,permanent,+2 Laps,TRUE
+ricciardo,red_bull,2015,6,monaco,5,dry,street,Finished,TRUE
+perez,red_bull,2021,2,imola,11,wet,permanent,Finished,TRUE
+kvyat,toro_rosso,2016,15,marina_bay,9,dry,street,Finished,TRUE
+kevin_magnussen,haas,2020,3,hungaroring,10,wet,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,20,interlagos,14,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2017,5,catalunya,6,dry,permanent,+1 Lap,TRUE
+gasly,toro_rosso,2018,7,villeneuve,11,dry,street,+1 Lap,TRUE
+massa,williams,2014,6,monaco,7,dry,street,+1 Lap,TRUE
+raikkonen,ferrari,2015,13,marina_bay,3,dry,street,Finished,TRUE
+sainz,mclaren,2020,16,bahrain,4,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,20,interlagos,15,wet,permanent,Finished,TRUE
+perez,red_bull,2021,6,BAK,1,dry,street,Finished,TRUE
+bottas,mercedes,2021,6,BAK,12,dry,street,Finished,TRUE
+grosjean,lotus_f1,2014,13,monza,16,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2019,1,albert_park,10,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2020,6,catalunya,10,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2017,17,americas,5,dry,permanent,Finished,TRUE
+grosjean,haas,2017,15,sepang,13,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,10,silverstone,3,dry,permanent,Finished,TRUE
+brendon_hartley,toro_rosso,2018,11,hockenheimring,10,wet,permanent,Finished,TRUE
+vettel,ferrari,2020,3,hungaroring,6,wet,permanent,+1 Lap,TRUE
+massa,williams,2014,19,yas_marina,2,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,10,silverstone,3,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,20,losail,11,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2020,8,monza,10,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2016,21,yas_marina,7,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,3,bahrain,14,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2018,17,suzuka,5,dry,permanent,Finished,TRUE
+kevin_magnussen,mclaren,2014,10,hockenheimring,9,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2017,18,rodriguez,15,dry,permanent,+2 Laps,TRUE
+stevens,manor,2015,15,sochi,14,dry,street,+2 Laps,TRUE
+stroll,williams,2018,14,monza,9,dry,permanent,+1 Lap,TRUE
+merhi,manor,2015,8,red_bull_ring,14,dry,permanent,+3 Laps,TRUE
+chilton,marussia,2014,8,red_bull_ring,17,dry,permanent,+2 Laps,TRUE
+raikkonen,ferrari,2018,18,americas,1,dry,permanent,Finished,TRUE
+tsunoda,alphatauri,2021,3,portimao,15,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,14,marina_bay,10,wet,street,Finished,TRUE
+massa,williams,2017,6,monaco,9,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2016,19,rodriguez,6,dry,permanent,Finished,TRUE
+raikkonen,alfa,2019,5,catalunya,14,dry,permanent,Finished,TRUE
+sainz,renault,2018,15,marina_bay,8,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,2,bahrain,14,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2015,9,silverstone,7,wet,permanent,Finished,TRUE
+kubica,williams,2019,13,spa,17,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2014,19,yas_marina,4,dry,permanent,Finished,TRUE
+stroll,williams,2018,6,monaco,17,dry,permanent,+2 Laps,TRUE
+sainz,toro_rosso,2015,6,monaco,10,dry,street,Finished,TRUE
+ricciardo,mclaren,2021,9,red_bull_ring,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2014,18,interlagos,2,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,12,monza,9,dry,permanent,+1 Lap,TRUE
+stroll,aston_martin,2021,15,sochi,11,wet,permanent,Finished,TRUE
+kvyat,toro_rosso,2019,18,rodriguez,11,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2021,1,bahrain,4,dry,permanent,Finished,TRUE
+nasr,sauber,2015,2,sepang,12,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2018,13,spa,8,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,20,yas_marina,4,dry,permanent,Finished,TRUE
+leclerc,ferrari,2021,20,losail,8,dry,permanent,Finished,TRUE
+ericsson,sauber,2015,18,interlagos,16,dry,permanent,+2 Laps,TRUE
+sainz,ferrari,2021,21,jeddah,8,dry,street,Finished,TRUE
+perez,force_india,2018,17,suzuka,7,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2014,8,red_bull_ring,10,dry,permanent,Finished,TRUE
+massa,williams,2015,12,monza,3,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2016,10,silverstone,5,wet,permanent,Finished,TRUE
+bottas,mercedes,2019,4,BAK,1,dry,permanent,Finished,TRUE
+sainz,renault,2018,7,villeneuve,8,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2016,9,red_bull_ring,1,dry,permanent,Finished,TRUE
+kevin_magnussen,renault,2016,5,catalunya,14,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2016,8,BAK,9,dry,street,Finished,TRUE
+tsunoda,alphatauri,2021,10,silverstone,10,dry,permanent,Finished,TRUE
+grosjean,haas,2016,4,sochi,8,dry,permanent,+1 Lap,TRUE
+vettel,aston_martin,2021,2,imola,15,wet,permanent,Gearbox,TRUE
+ericsson,caterham,2014,5,catalunya,20,dry,permanent,+2 Laps,TRUE
+hamilton,mercedes,2019,16,sochi,1,dry,permanent,Finished,TRUE
+stevens,manor,2015,4,bahrain,16,dry,permanent,+2 Laps,TRUE
+kvyat,toro_rosso,2017,4,sochi,12,dry,permanent,+1 Lap,TRUE
+tsunoda,alphatauri,2021,2,imola,12,wet,permanent,Finished,TRUE
+perez,force_india,2017,3,bahrain,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,16,sochi,1,dry,permanent,Finished,TRUE
+latifi,williams,2021,21,jeddah,12,dry,street,Finished,TRUE
+raikkonen,alfa,2020,10,sochi,14,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2014,5,catalunya,1,dry,permanent,Finished,TRUE
+vettel,ferrari,2020,5,silverstone,12,dry,permanent,Finished,TRUE
+grosjean,haas,2019,11,hockenheimring,7,wet,permanent,Finished,TRUE
+sainz,toro_rosso,2017,2,shanghai,7,wet,permanent,Finished,TRUE
+alonso,ferrari,2014,14,marina_bay,4,dry,street,Finished,TRUE
+ocon,renault,2020,5,silverstone,8,dry,permanent,Finished,TRUE
+hamilton,mercedes,2017,8,BAK,5,dry,street,Finished,TRUE
+sutil,sauber,2014,7,villeneuve,13,dry,street,+1 Lap,TRUE
+raikkonen,alfa,2019,12,hungaroring,7,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,11,hungaroring,13,wet,permanent,+1 Lap,TRUE
+raikkonen,alfa,2020,14,istanbul,15,wet,permanent,+1 Lap,TRUE
+massa,williams,2015,2,sepang,6,dry,permanent,Finished,TRUE
+massa,williams,2016,19,rodriguez,9,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2015,12,monza,11,dry,permanent,+1 Lap,TRUE
+alonso,mclaren,2016,14,monza,14,dry,permanent,+1 Lap,TRUE
+maldonado,lotus_f1,2015,8,red_bull_ring,7,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2016,9,red_bull_ring,5,dry,permanent,Finished,TRUE
+ocon,manor,2016,15,marina_bay,18,dry,street,+2 Laps,TRUE
+vettel,ferrari,2018,7,villeneuve,1,dry,street,Finished,TRUE
+ricciardo,mclaren,2021,7,ricard,6,dry,permanent,Finished,TRUE
+raikkonen,alfa,2021,16,istanbul,12,wet,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,11,hungaroring,6,wet,permanent,Finished,TRUE
+hamilton,mercedes,2017,4,sochi,4,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2014,13,monza,11,dry,permanent,Finished,TRUE
+ocon,force_india,2018,17,suzuka,9,dry,permanent,Finished,TRUE
+latifi,williams,2021,9,red_bull_ring,16,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2021,15,sochi,5,wet,permanent,Finished,TRUE
+perez,racing_point,2019,7,villeneuve,12,dry,street,+1 Lap,TRUE
+giovinazzi,alfa,2020,17,yas_marina,16,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2016,1,albert_park,2,dry,street,Finished,TRUE
+rosberg,mercedes,2016,19,rodriguez,2,dry,permanent,Finished,TRUE
+perez,racing_point,2020,12,portimao,7,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2015,5,catalunya,9,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,2,bahrain,16,dry,permanent,+2 Laps,TRUE
+gasly,toro_rosso,2017,18,rodriguez,13,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2014,10,hockenheimring,7,dry,permanent,Finished,TRUE
+vettel,ferrari,2020,12,portimao,10,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,13,spa,10,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,14,marina_bay,3,wet,street,Finished,TRUE
+sainz,renault,2018,12,hungaroring,9,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2019,1,albert_park,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2019,17,suzuka,3,dry,permanent,Finished,TRUE
+jolyon_palmer,renault,2016,21,yas_marina,17,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,2,red_bull_ring,17,dry,permanent,+2 Laps,TRUE
+latifi,williams,2021,8,red_bull_ring,17,dry,permanent,+3 Laps,TRUE
+nasr,sauber,2016,1,albert_park,15,dry,street,+1 Lap,TRUE
+max_verstappen,red_bull,2018,19,rodriguez,1,dry,permanent,Finished,TRUE
+hulkenberg,racing_point,2020,5,silverstone,7,dry,permanent,Finished,TRUE
+gutierrez,haas,2016,4,sochi,17,dry,permanent,+1 Lap,TRUE
+ricciardo,renault,2020,7,spa,4,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2017,17,americas,12,dry,permanent,+1 Lap,TRUE
+perez,force_india,2016,4,sochi,9,dry,permanent,+1 Lap,TRUE
+nasr,sauber,2016,8,BAK,12,dry,street,+1 Lap,TRUE
+stroll,racing_point,2020,3,hungaroring,4,wet,permanent,Finished,TRUE
+perez,force_india,2016,3,shanghai,11,dry,permanent,Finished,TRUE
+vergne,toro_rosso,2014,17,americas,10,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,3,portimao,11,dry,permanent,Finished,TRUE
+stroll,williams,2018,16,sochi,15,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2015,8,red_bull_ring,6,dry,permanent,Finished,TRUE
+bottas,mercedes,2017,3,bahrain,3,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2016,16,sepang,14,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2015,3,shanghai,4,dry,permanent,Finished,TRUE
+alonso,mclaren,2015,10,hungaroring,5,dry,permanent,Finished,TRUE
+bottas,mercedes,2018,19,rodriguez,5,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,7,villeneuve,9,dry,street,+1 Lap,TRUE
+massa,williams,2016,14,monza,9,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,11,hockenheimring,4,wet,permanent,Finished,TRUE
+hulkenberg,renault,2018,1,albert_park,7,dry,street,Finished,TRUE
+kubica,williams,2019,14,monza,17,dry,permanent,+2 Laps,TRUE
+massa,williams,2015,9,silverstone,4,wet,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,14,monza,16,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,7,villeneuve,17,dry,street,+2 Laps,TRUE
+max_verstappen,red_bull,2021,15,sochi,2,wet,permanent,Finished,TRUE
+vettel,ferrari,2016,6,monaco,4,wet,street,Finished,TRUE
+hulkenberg,renault,2018,7,villeneuve,7,dry,street,+1 Lap,TRUE
+perez,force_india,2015,7,villeneuve,11,dry,street,+1 Lap,TRUE
+alonso,alpine,2021,7,ricard,8,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,4,catalunya,13,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2019,12,hungaroring,3,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,15,marina_bay,18,dry,permanent,+2 Laps,TRUE
+bottas,williams,2016,16,sepang,5,dry,permanent,Finished,TRUE
+perez,force_india,2014,9,silverstone,11,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2021,19,interlagos,10,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2020,12,portimao,3,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2016,2,bahrain,2,dry,permanent,Finished,TRUE
+perez,force_india,2016,1,albert_park,13,dry,street,Finished,TRUE
+jolyon_palmer,renault,2017,12,spa,13,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2018,16,sochi,6,dry,permanent,Finished,TRUE
+latifi,williams,2021,4,catalunya,16,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2014,16,sochi,14,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,18,rodriguez,11,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2016,14,monza,7,dry,permanent,Finished,TRUE
+rosberg,mercedes,2015,8,red_bull_ring,1,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,3,portimao,13,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2018,12,hungaroring,4,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,13,zandvoort,12,dry,permanent,+2 Laps,TRUE
+kubica,williams,2019,17,suzuka,17,dry,permanent,+2 Laps,TRUE
+max_verstappen,toro_rosso,2015,14,suzuka,9,dry,permanent,Finished,TRUE
+ocon,alpine,2021,3,portimao,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,1,bahrain,1,dry,permanent,Finished,TRUE
+haryanto,manor,2016,12,hockenheimring,20,dry,permanent,+2 Laps,TRUE
+ocon,renault,2020,10,sochi,7,dry,permanent,Finished,TRUE
+sainz,ferrari,2021,12,spa,10,wet,permanent,Finished,TRUE
+leclerc,ferrari,2020,4,silverstone,3,dry,permanent,Finished,TRUE
+perez,red_bull,2021,14,monza,5,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2019,15,marina_bay,10,dry,street,Finished,TRUE
+ricciardo,red_bull,2018,20,interlagos,4,dry,permanent,Finished,TRUE
+perez,force_india,2015,5,catalunya,13,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2021,22,yas_marina,2,dry,permanent,Finished,TRUE
+ocon,force_india,2017,11,hungaroring,9,dry,permanent,+1 Lap,TRUE
+perez,force_india,2018,6,monaco,12,dry,permanent,Finished,TRUE
+grosjean,haas,2016,19,rodriguez,20,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2016,14,monza,15,dry,permanent,+1 Lap,TRUE
+massa,williams,2014,15,suzuka,7,wet,permanent,Finished,TRUE
+ricciardo,renault,2020,6,catalunya,11,dry,permanent,+1 Lap,TRUE
+russell,williams,2019,11,hockenheimring,11,wet,permanent,Finished,TRUE
+grosjean,haas,2020,3,hungaroring,16,wet,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2021,5,monaco,10,dry,street,+1 Lap,TRUE
+kobayashi,caterham,2014,10,hockenheimring,16,dry,permanent,+2 Laps,TRUE
+nasr,sauber,2015,11,spa,11,dry,permanent,Finished,TRUE
+grosjean,haas,2018,17,suzuka,8,dry,permanent,Finished,TRUE
+merhi,manor,2015,12,monza,16,dry,permanent,+2 Laps,TRUE
+latifi,williams,2021,7,ricard,18,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,mclaren,2014,7,villeneuve,9,dry,street,Finished,TRUE
+kevin_magnussen,mclaren,2014,12,spa,12,dry,permanent,Finished,TRUE
+russell,williams,2019,10,silverstone,14,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2015,10,hungaroring,7,dry,permanent,Finished,TRUE
+hamilton,mercedes,2016,19,rodriguez,1,dry,permanent,Finished,TRUE
+kvyat,red_bull,2015,6,monaco,4,dry,street,Finished,TRUE
+ricciardo,red_bull,2016,7,villeneuve,7,dry,street,Finished,TRUE
+bottas,mercedes,2020,16,bahrain,8,dry,permanent,Finished,TRUE
+bottas,mercedes,2018,11,hockenheimring,2,wet,permanent,Finished,TRUE
+gasly,alphatauri,2021,9,red_bull_ring,9,dry,permanent,Finished,TRUE
+massa,williams,2016,1,albert_park,5,dry,street,Finished,TRUE
+latifi,williams,2021,18,rodriguez,17,dry,permanent,+2 Laps,TRUE
+bottas,mercedes,2020,9,mugello,2,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2019,6,monaco,19,dry,street,+2 Laps,TRUE
+max_verstappen,red_bull,2020,3,hungaroring,2,wet,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,6,monaco,14,dry,street,+1 Lap,TRUE
+rossi,manor,2015,14,suzuka,18,dry,permanent,+2 Laps,TRUE
+norris,mclaren,2020,2,red_bull_ring,5,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,13,spa,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,12,hungaroring,1,dry,permanent,Finished,TRUE
+stevens,manor,2015,10,hungaroring,16,dry,permanent,+4 Laps,TRUE
+vettel,ferrari,2016,18,americas,4,dry,permanent,Finished,TRUE
+norris,mclaren,2019,4,BAK,8,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2016,15,marina_bay,4,dry,street,Finished,TRUE
+vettel,ferrari,2017,1,albert_park,1,dry,street,Finished,TRUE
+stroll,williams,2018,15,marina_bay,14,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2021,18,rodriguez,15,dry,permanent,+2 Laps,TRUE
+nasr,sauber,2015,6,monaco,9,dry,street,Finished,TRUE
+hamilton,mercedes,2014,14,marina_bay,1,dry,street,Finished,TRUE
+giovinazzi,alfa,2021,2,imola,14,wet,permanent,+1 Lap,TRUE
+vettel,ferrari,2015,5,catalunya,3,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,6,monaco,16,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2019,15,marina_bay,1,dry,street,Finished,TRUE
+kvyat,toro_rosso,2017,11,hungaroring,11,dry,permanent,+1 Lap,TRUE
+massa,williams,2014,12,spa,13,dry,permanent,Finished,TRUE
+leclerc,ferrari,2019,19,americas,4,dry,permanent,Finished,TRUE
+wehrlein,sauber,2017,14,marina_bay,12,wet,street,+2 Laps,TRUE
+bottas,mercedes,2020,4,silverstone,11,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2015,7,villeneuve,7,dry,street,Finished,TRUE
+russell,williams,2019,13,spa,15,dry,permanent,+1 Lap,TRUE
+raikkonen,alfa,2021,15,sochi,8,wet,permanent,Finished,TRUE
+bottas,mercedes,2020,12,portimao,2,dry,permanent,Finished,TRUE
+vettel,ferrari,2019,5,catalunya,4,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2017,13,monza,10,dry,permanent,+1 Lap,TRUE
+sutil,sauber,2014,18,interlagos,16,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,14,monza,12,dry,permanent,+1 Lap,TRUE
+perez,force_india,2017,10,silverstone,9,dry,permanent,+1 Lap,TRUE
+ricciardo,renault,2020,3,hungaroring,8,wet,permanent,+1 Lap,TRUE
+vettel,ferrari,2020,1,red_bull_ring,10,dry,permanent,Finished,TRUE
+ricciardo,mclaren,2021,5,monaco,12,dry,street,+1 Lap,TRUE
+perez,force_india,2016,11,hungaroring,11,dry,permanent,+1 Lap,TRUE
+button,mclaren,2015,12,monza,14,dry,permanent,+1 Lap,TRUE
+leclerc,sauber,2018,11,hockenheimring,15,wet,permanent,+1 Lap,TRUE
+kevin_magnussen,renault,2016,1,albert_park,12,dry,street,Finished,TRUE
+max_verstappen,red_bull,2021,21,jeddah,2,dry,street,Finished,TRUE
+hulkenberg,renault,2019,19,americas,9,dry,permanent,+1 Lap,TRUE
+vettel,ferrari,2015,1,albert_park,3,dry,street,Finished,TRUE
+norris,mclaren,2019,13,spa,11,dry,permanent,Engine,TRUE
+bottas,williams,2015,17,rodriguez,3,dry,permanent,Finished,TRUE
+sutil,sauber,2014,9,silverstone,13,dry,permanent,+1 Lap,TRUE
+massa,williams,2015,15,sochi,4,dry,street,Finished,TRUE
+grosjean,haas,2019,21,yas_marina,15,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2016,11,hungaroring,6,dry,permanent,Finished,TRUE
+bottas,williams,2016,17,suzuka,10,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,19,rodriguez,2,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,8,BAK,7,dry,street,Finished,TRUE
+norris,mclaren,2021,3,portimao,5,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2017,14,marina_bay,2,wet,street,Finished,TRUE
+bottas,mercedes,2019,21,yas_marina,4,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2020,10,sochi,2,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,11,hockenheimring,5,wet,permanent,Finished,TRUE
+jolyon_palmer,renault,2016,1,albert_park,11,dry,street,Finished,TRUE
+bottas,mercedes,2019,7,villeneuve,4,dry,street,Finished,TRUE
+perez,force_india,2016,13,spa,5,dry,permanent,Finished,TRUE
+rosberg,mercedes,2014,11,hungaroring,4,wet,permanent,Finished,TRUE
+sainz,toro_rosso,2015,7,villeneuve,12,dry,street,+1 Lap,TRUE
+grosjean,haas,2020,4,silverstone,16,dry,permanent,Finished,TRUE
+perez,force_india,2018,2,bahrain,16,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2020,14,istanbul,2,wet,permanent,Finished,TRUE
+alonso,alpine,2021,5,monaco,13,dry,street,+1 Lap,TRUE
+giovinazzi,alfa,2019,11,hockenheimring,13,wet,permanent,Finished,TRUE
+ocon,force_india,2018,12,hungaroring,13,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2019,8,ricard,14,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2019,18,rodriguez,7,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,13,spa,2,dry,permanent,Finished,TRUE
+massa,williams,2014,13,monza,3,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,4,catalunya,3,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,17,suzuka,16,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2018,20,interlagos,5,dry,permanent,Finished,TRUE
+button,mclaren,2014,9,silverstone,4,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2018,10,silverstone,13,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,8,BAK,8,dry,street,Finished,TRUE
+mick_schumacher,haas,2021,2,imola,16,wet,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2015,4,bahrain,13,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2016,14,monza,11,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2017,15,sepang,5,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,2,sepang,4,dry,permanent,Finished,TRUE
+ocon,alpine,2021,20,losail,5,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2015,11,spa,7,dry,permanent,Finished,TRUE
+ericsson,sauber,2018,17,suzuka,12,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2017,3,bahrain,5,dry,permanent,Finished,TRUE
+jules_bianchi,marussia,2014,3,bahrain,16,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,12,spa,11,dry,permanent,Finished,TRUE
+ocon,manor,2016,13,spa,16,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,21,yas_marina,14,dry,permanent,+1 Lap,TRUE
+latifi,williams,2021,17,americas,15,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2016,10,silverstone,2,wet,permanent,Finished,TRUE
+vettel,ferrari,2017,12,spa,2,dry,permanent,Finished,TRUE
+latifi,williams,2020,11,nurburgring,14,dry,permanent,Finished,TRUE
+hamilton,mercedes,2019,3,shanghai,1,dry,permanent,Finished,TRUE
+norris,mclaren,2020,1,red_bull_ring,3,dry,permanent,Finished,TRUE
+stroll,williams,2018,20,interlagos,18,dry,permanent,+2 Laps,TRUE
+stroll,racing_point,2020,14,istanbul,9,wet,permanent,Finished,TRUE
+tsunoda,alphatauri,2021,6,BAK,7,dry,street,Finished,TRUE
+gasly,toro_rosso,2017,20,yas_marina,16,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2020,5,silverstone,3,dry,permanent,Finished,TRUE
+hamilton,mercedes,2020,17,yas_marina,3,dry,permanent,Finished,TRUE
+stroll,aston_martin,2021,12,spa,20,wet,permanent,Finished,TRUE
+ricciardo,red_bull,2018,10,silverstone,5,dry,permanent,Finished,TRUE
+massa,williams,2014,8,red_bull_ring,4,dry,permanent,Finished,TRUE
+ericsson,caterham,2014,13,monza,20,dry,permanent,+2 Laps,TRUE
+giovinazzi,alfa,2019,7,villeneuve,13,dry,street,+1 Lap,TRUE
+hamilton,mercedes,2021,15,sochi,1,wet,permanent,Finished,TRUE
+latifi,williams,2020,6,catalunya,18,dry,permanent,+2 Laps,TRUE
+button,mclaren,2016,19,rodriguez,12,dry,permanent,+1 Lap,TRUE
+norris,mclaren,2021,22,yas_marina,7,dry,permanent,Finished,TRUE
+merhi,manor,2015,11,spa,15,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2017,9,red_bull_ring,5,dry,permanent,Finished,TRUE
+stroll,racing_point,2019,18,rodriguez,12,dry,permanent,+1 Lap,TRUE
+jules_bianchi,marussia,2014,14,marina_bay,16,dry,street,Finished,TRUE
+hamilton,mercedes,2018,7,villeneuve,5,dry,street,Finished,TRUE
+gasly,alphatauri,2021,7,ricard,7,dry,permanent,Finished,TRUE
+perez,force_india,2017,15,sepang,6,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2017,12,spa,10,dry,permanent,Finished,TRUE
+gutierrez,sauber,2014,13,monza,19,dry,permanent,+2 Laps,TRUE
+chilton,marussia,2014,3,bahrain,13,dry,permanent,Finished,TRUE
+grosjean,haas,2016,6,monaco,13,wet,street,+2 Laps,TRUE
+jolyon_palmer,renault,2017,6,monaco,11,dry,permanent,Finished,TRUE
+sutil,sauber,2014,13,monza,15,dry,permanent,+1 Lap,TRUE
+stevens,manor,2015,11,spa,16,dry,permanent,+1 Lap,TRUE
+stroll,aston_martin,2021,16,istanbul,9,wet,permanent,Finished,TRUE
+alonso,mclaren,2016,18,americas,5,dry,permanent,Finished,TRUE
+kevin_magnussen,renault,2016,20,interlagos,14,wet,permanent,Finished,TRUE
+latifi,williams,2020,10,sochi,16,dry,permanent,+1 Lap,TRUE
+leclerc,sauber,2018,3,shanghai,19,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,8,ricard,1,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,13,monza,12,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,8,ricard,15,dry,permanent,+1 Lap,TRUE
+russell,williams,2021,3,portimao,16,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2016,11,hungaroring,10,dry,permanent,+1 Lap,TRUE
+button,mclaren,2014,8,red_bull_ring,11,dry,permanent,Finished,TRUE
+sainz,mclaren,2019,8,ricard,6,dry,permanent,Finished,TRUE
+grosjean,haas,2016,12,hockenheimring,13,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2017,17,americas,15,dry,permanent,+1 Lap,TRUE
+perez,force_india,2015,12,monza,6,dry,permanent,Finished,TRUE
+albon,red_bull,2020,7,spa,6,dry,permanent,Finished,TRUE
+leclerc,ferrari,2020,9,mugello,8,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,7,villeneuve,9,dry,street,+1 Lap,TRUE
+hulkenberg,force_india,2014,5,catalunya,10,dry,permanent,+1 Lap,TRUE
+brendon_hartley,toro_rosso,2018,4,BAK,10,dry,street,Finished,TRUE
+vandoorne,mclaren,2017,14,marina_bay,7,wet,street,Finished,TRUE
+vettel,ferrari,2016,13,spa,6,dry,permanent,Finished,TRUE
+vettel,ferrari,2016,12,hockenheimring,5,dry,permanent,Finished,TRUE
+alonso,mclaren,2016,6,monaco,5,wet,street,Finished,TRUE
+ricciardo,mclaren,2021,15,sochi,4,wet,permanent,Finished,TRUE
+bottas,mercedes,2018,17,suzuka,2,dry,permanent,Finished,TRUE
+grosjean,haas,2020,13,imola,14,dry,permanent,Finished,TRUE
+bottas,mercedes,2019,3,shanghai,2,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,12,hockenheimring,14,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,8,monza,11,dry,permanent,Finished,TRUE
+alonso,mclaren,2016,21,yas_marina,10,dry,permanent,Finished,TRUE
+hamilton,mercedes,2014,2,sepang,1,dry,permanent,Finished,TRUE
+ricciardo,mclaren,2021,16,istanbul,13,wet,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2018,5,catalunya,6,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,4,shanghai,8,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,2,imola,7,wet,permanent,Finished,TRUE
+raikkonen,ferrari,2014,17,americas,13,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2017,16,suzuka,1,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,18,americas,17,dry,permanent,+1 Lap,TRUE
+hulkenberg,renault,2017,7,villeneuve,8,dry,street,Finished,TRUE
+perez,red_bull,2021,20,losail,4,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,15,marina_bay,6,dry,street,Finished,TRUE
+massa,williams,2016,6,monaco,10,wet,street,+1 Lap,TRUE
+hamilton,mercedes,2015,7,villeneuve,1,dry,street,Finished,TRUE
+grosjean,lotus_f1,2015,4,bahrain,7,dry,permanent,Finished,TRUE
+kvyat,toro_rosso,2019,5,catalunya,9,dry,permanent,Finished,TRUE
+wehrlein,manor,2016,3,shanghai,18,dry,permanent,+1 Lap,TRUE
+bottas,williams,2015,5,catalunya,4,dry,permanent,Finished,TRUE
+alonso,mclaren,2016,11,hungaroring,7,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,20,interlagos,11,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2014,5,catalunya,7,dry,permanent,+1 Lap,TRUE
+vandoorne,mclaren,2018,7,villeneuve,16,dry,street,+2 Laps,TRUE
+ricciardo,renault,2019,21,yas_marina,11,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2014,18,interlagos,11,dry,permanent,+1 Lap,TRUE
+gasly,alphatauri,2020,16,bahrain,11,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,19,interlagos,1,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2015,18,interlagos,10,dry,permanent,+1 Lap,TRUE
+perez,force_india,2016,12,hockenheimring,10,dry,permanent,+1 Lap,TRUE
+sainz,toro_rosso,2015,14,suzuka,10,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2014,15,suzuka,15,wet,permanent,+1 Lap,TRUE
+russell,williams,2019,5,catalunya,17,dry,permanent,+1 Lap,TRUE
+gutierrez,haas,2016,9,red_bull_ring,11,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2014,14,marina_bay,8,dry,street,Finished,TRUE
+grosjean,haas,2020,8,monza,12,dry,permanent,Finished,TRUE
+alonso,mclaren,2016,16,sepang,7,dry,permanent,Finished,TRUE
+leclerc,ferrari,2020,17,yas_marina,13,dry,permanent,+1 Lap,TRUE
+rosberg,mercedes,2014,18,interlagos,1,dry,permanent,Finished,TRUE
+latifi,williams,2021,11,hungaroring,7,wet,permanent,Finished,TRUE
+jolyon_palmer,renault,2016,4,sochi,13,dry,permanent,+1 Lap,TRUE
+kubica,williams,2019,11,hockenheimring,10,wet,permanent,Finished,TRUE
+kevin_magnussen,haas,2018,20,interlagos,9,dry,permanent,Finished,TRUE
+ericsson,sauber,2016,19,rodriguez,11,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2017,9,red_bull_ring,8,dry,permanent,+1 Lap,TRUE
+bottas,williams,2015,8,red_bull_ring,5,dry,permanent,Finished,TRUE
+haryanto,manor,2016,6,monaco,15,wet,street,+4 Laps,TRUE
+norris,mclaren,2021,9,red_bull_ring,3,dry,permanent,Finished,TRUE
+brendon_hartley,toro_rosso,2018,8,ricard,14,dry,permanent,+1 Lap,TRUE
+brendon_hartley,toro_rosso,2018,20,interlagos,11,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2019,5,catalunya,15,dry,permanent,Finished,TRUE
+kvyat,alphatauri,2020,10,sochi,8,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2017,19,interlagos,12,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2021,16,istanbul,1,wet,permanent,Finished,TRUE
+grosjean,haas,2018,11,hockenheimring,6,wet,permanent,Finished,TRUE
+bottas,mercedes,2018,13,spa,4,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2018,21,yas_marina,3,dry,permanent,Finished,TRUE
+vergne,toro_rosso,2014,15,suzuka,9,wet,permanent,Finished,TRUE
+gasly,toro_rosso,2019,20,interlagos,2,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2015,19,yas_marina,6,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,3,shanghai,3,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,12,portimao,11,dry,permanent,+1 Lap,TRUE
+latifi,williams,2020,1,red_bull_ring,11,dry,permanent,Finished,TRUE
+haryanto,manor,2016,2,bahrain,17,dry,permanent,+1 Lap,TRUE
+sainz,renault,2018,16,sochi,17,dry,permanent,+2 Laps,TRUE
+jolyon_palmer,renault,2017,11,hungaroring,12,dry,permanent,+1 Lap,TRUE
+massa,williams,2017,15,sepang,9,dry,permanent,+1 Lap,TRUE
+max_verstappen,red_bull,2021,13,zandvoort,1,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,6,BAK,2,dry,street,Finished,TRUE
+grosjean,lotus_f1,2015,3,shanghai,7,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,4,shanghai,3,dry,permanent,Finished,TRUE
+norris,mclaren,2021,21,jeddah,10,dry,street,Finished,TRUE
+kvyat,toro_rosso,2019,20,interlagos,10,dry,permanent,Finished,TRUE
+alonso,ferrari,2014,19,yas_marina,9,dry,permanent,Finished,TRUE
+maldonado,lotus_f1,2014,18,interlagos,12,dry,permanent,+1 Lap,TRUE
+wehrlein,manor,2016,6,monaco,14,wet,street,+2 Laps,TRUE
+giovinazzi,alfa,2020,3,hungaroring,17,wet,permanent,+1 Lap,TRUE
+vettel,ferrari,2018,10,silverstone,1,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2016,19,rodriguez,7,dry,permanent,Finished,TRUE
+vettel,ferrari,2018,13,spa,1,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2020,12,portimao,15,dry,permanent,+1 Lap,TRUE
+ocon,alpine,2021,8,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2019,21,yas_marina,3,dry,permanent,Finished,TRUE
+vandoorne,mclaren,2018,11,hockenheimring,13,wet,permanent,Finished,TRUE
+gutierrez,sauber,2014,17,americas,14,dry,permanent,+1 Lap,TRUE
+stroll,racing_point,2019,15,marina_bay,13,dry,street,Finished,TRUE
+raikkonen,alfa,2019,13,spa,16,dry,permanent,+1 Lap,TRUE
+grosjean,lotus_f1,2014,19,yas_marina,13,dry,permanent,+1 Lap,TRUE
+bottas,williams,2014,16,sochi,3,dry,permanent,Finished,TRUE
+vettel,red_bull,2014,16,sochi,8,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2015,17,rodriguez,13,dry,permanent,Finished,TRUE
+gasly,alphatauri,2021,15,sochi,13,wet,permanent,+1 Lap,TRUE
+sainz,ferrari,2021,4,catalunya,7,dry,permanent,Finished,TRUE
+grosjean,haas,2017,7,villeneuve,10,dry,street,+1 Lap,TRUE
+sainz,toro_rosso,2016,17,suzuka,17,dry,permanent,+1 Lap,TRUE
+kevin_magnussen,haas,2019,13,spa,12,dry,permanent,+1 Lap,TRUE
+perez,force_india,2018,9,red_bull_ring,7,dry,permanent,+1 Lap,TRUE
+perez,racing_point,2020,6,catalunya,5,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2017,7,villeneuve,3,dry,street,Finished,TRUE
+leclerc,ferrari,2021,18,rodriguez,5,dry,permanent,Finished,TRUE
+button,mclaren,2016,4,sochi,10,dry,permanent,+1 Lap,TRUE
+hulkenberg,force_india,2015,14,suzuka,6,dry,permanent,Finished,TRUE
+button,mclaren,2016,9,red_bull_ring,6,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2014,15,suzuka,12,wet,permanent,+1 Lap,TRUE
+massa,williams,2016,8,BAK,10,dry,street,Finished,TRUE
+hamilton,mercedes,2017,7,villeneuve,1,dry,street,Finished,TRUE
+merhi,manor,2015,6,monaco,16,dry,street,+2 Laps,TRUE
+ericsson,sauber,2015,1,albert_park,8,dry,street,+1 Lap,TRUE
+maldonado,lotus_f1,2015,4,bahrain,15,dry,permanent,+1 Lap,TRUE
+giovinazzi,alfa,2019,5,catalunya,16,dry,permanent,Finished,TRUE
+ericsson,sauber,2017,4,sochi,15,dry,permanent,+1 Lap,TRUE
+massa,williams,2015,6,monaco,15,dry,street,+1 Lap,TRUE
+leclerc,ferrari,2021,12,spa,8,wet,permanent,Finished,TRUE
+hulkenberg,renault,2017,3,bahrain,9,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2020,4,silverstone,2,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,10,hungaroring,1,dry,permanent,Finished,TRUE
+sainz,mclaren,2020,14,istanbul,5,wet,permanent,Finished,TRUE
+max_verstappen,toro_rosso,2015,15,sochi,10,dry,street,Finished,TRUE
+raikkonen,ferrari,2018,3,shanghai,3,dry,permanent,Finished,TRUE
+ericsson,caterham,2014,14,marina_bay,15,dry,street,Finished,TRUE
+raikkonen,ferrari,2017,11,hungaroring,2,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,8,red_bull_ring,2,dry,permanent,Finished,TRUE
+nasr,sauber,2015,10,hungaroring,11,dry,permanent,Finished,TRUE
+albon,red_bull,2020,8,monza,15,dry,permanent,Finished,TRUE
+bottas,mercedes,2021,12,spa,12,wet,permanent,Finished,TRUE
+ricciardo,renault,2019,12,hungaroring,14,dry,permanent,+1 Lap,TRUE
+chilton,marussia,2014,12,spa,16,dry,permanent,+1 Lap,TRUE
+stevens,manor,2015,5,catalunya,17,dry,permanent,+3 Laps,TRUE
+grosjean,haas,2017,9,red_bull_ring,6,dry,permanent,Finished,TRUE
+raikkonen,ferrari,2017,4,sochi,3,dry,permanent,Finished,TRUE
+vettel,aston_martin,2021,16,istanbul,18,wet,permanent,+1 Lap,TRUE
+norris,mclaren,2021,17,americas,8,dry,permanent,Finished,TRUE
+perez,force_india,2018,15,marina_bay,16,dry,permanent,+1 Lap,TRUE
+perez,force_india,2015,14,suzuka,12,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2017,7,villeneuve,13,dry,street,+1 Lap,TRUE
+tsunoda,alphatauri,2021,21,jeddah,14,dry,street,+1 Lap,TRUE
+vettel,ferrari,2017,10,silverstone,7,dry,permanent,Finished,TRUE
+chilton,marussia,2014,2,sepang,15,dry,permanent,+2 Laps,TRUE
+alonso,alpine,2021,9,red_bull_ring,10,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2017,5,catalunya,3,dry,permanent,Finished,TRUE
+hamilton,mercedes,2015,1,albert_park,1,dry,street,Finished,TRUE
+button,mclaren,2016,1,albert_park,14,dry,street,+1 Lap,TRUE
+maldonado,lotus_f1,2014,4,shanghai,14,dry,permanent,+1 Lap,TRUE
+ricciardo,red_bull,2015,5,catalunya,7,dry,permanent,+1 Lap,TRUE
+ocon,force_india,2018,14,monza,6,dry,permanent,Finished,TRUE
+vettel,ferrari,2017,13,monza,3,dry,permanent,Finished,TRUE
+perez,racing_point,2020,3,hungaroring,7,wet,permanent,+1 Lap,TRUE
+kobayashi,caterham,2014,3,bahrain,15,dry,permanent,Finished,TRUE
+kevin_magnussen,renault,2016,19,rodriguez,17,dry,permanent,+1 Lap,TRUE
+ocon,alpine,2021,15,sochi,14,wet,permanent,+1 Lap,TRUE
+ricciardo,renault,2020,12,portimao,9,dry,permanent,+1 Lap,TRUE
+hamilton,mercedes,2019,4,BAK,2,dry,permanent,Finished,TRUE
+perez,force_india,2017,19,interlagos,9,dry,permanent,Finished,TRUE
+vettel,ferrari,2015,12,monza,2,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,16,bahrain,14,dry,permanent,Finished,TRUE
+sirotkin,williams,2018,3,shanghai,15,dry,permanent,Finished,TRUE
+bottas,williams,2014,8,red_bull_ring,3,dry,permanent,Finished,TRUE
+ricciardo,red_bull,2016,10,silverstone,4,wet,permanent,Finished,TRUE
+chilton,marussia,2014,4,shanghai,19,dry,permanent,+2 Laps,TRUE
+hulkenberg,force_india,2014,9,silverstone,8,dry,permanent,Finished,TRUE
+gasly,toro_rosso,2018,15,marina_bay,13,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2018,11,hockenheimring,3,wet,permanent,Finished,TRUE
+massa,williams,2014,17,americas,4,dry,permanent,Finished,TRUE
+perez,force_india,2016,16,sepang,6,dry,permanent,Finished,TRUE
+albon,red_bull,2020,16,bahrain,6,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2014,4,shanghai,6,dry,permanent,Finished,TRUE
+kvyat,alphatauri,2020,16,bahrain,7,dry,permanent,Finished,TRUE
+bottas,williams,2014,17,americas,5,dry,permanent,Finished,TRUE
+gutierrez,sauber,2014,19,yas_marina,15,dry,permanent,+1 Lap,TRUE
+ericsson,sauber,2015,15,sochi,20,dry,street,Collision,TRUE
+ericsson,caterham,2014,16,sochi,19,dry,permanent,+2 Laps,TRUE
+alonso,mclaren,2018,20,interlagos,17,dry,permanent,+2 Laps,TRUE
+vettel,ferrari,2018,6,monaco,2,dry,permanent,Finished,TRUE
+sainz,toro_rosso,2016,3,shanghai,9,dry,permanent,Finished,TRUE
+hamilton,mercedes,2018,14,monza,1,dry,permanent,Finished,TRUE
+ericsson,caterham,2014,12,spa,17,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2019,13,spa,13,dry,permanent,+1 Lap,TRUE
+ocon,renault,2020,12,portimao,8,dry,permanent,+1 Lap,TRUE
+bottas,mercedes,2018,5,catalunya,2,dry,permanent,Finished,TRUE
+bottas,williams,2015,13,marina_bay,5,dry,street,Finished,TRUE
+ricciardo,mclaren,2021,8,red_bull_ring,13,dry,permanent,+1 Lap,TRUE
+raikkonen,ferrari,2018,6,monaco,4,dry,permanent,Finished,TRUE
+hamilton,mercedes,2021,12,spa,3,wet,permanent,Finished,TRUE
+kevin_magnussen,mclaren,2014,16,sochi,5,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2016,9,red_bull_ring,2,dry,permanent,Finished,TRUE
+massa,williams,2016,5,catalunya,8,dry,permanent,Finished,TRUE
+massa,williams,2017,13,monza,8,dry,permanent,Finished,TRUE
+russell,williams,2019,12,hungaroring,16,dry,permanent,+2 Laps,TRUE
+alonso,mclaren,2018,12,hungaroring,8,dry,permanent,+1 Lap,TRUE
+perez,force_india,2015,15,sochi,3,dry,street,Finished,TRUE
+nasr,sauber,2015,4,bahrain,12,dry,permanent,+1 Lap,TRUE
+stroll,williams,2017,14,marina_bay,8,wet,street,Finished,TRUE
+rossi,manor,2015,13,marina_bay,14,dry,street,+2 Laps,TRUE
+gutierrez,haas,2016,6,monaco,11,wet,street,+1 Lap,TRUE
+norris,mclaren,2021,4,catalunya,8,dry,permanent,+1 Lap,TRUE
+grosjean,haas,2017,19,interlagos,15,dry,permanent,+2 Laps,TRUE
+giovinazzi,alfa,2019,20,interlagos,5,dry,permanent,Finished,TRUE
+nasr,sauber,2015,8,red_bull_ring,11,dry,permanent,+1 Lap,TRUE
+leclerc,ferrari,2020,11,nurburgring,7,dry,permanent,Finished,TRUE
+max_verstappen,red_bull,2019,7,villeneuve,5,dry,street,Finished,TRUE
+hulkenberg,force_india,2016,2,bahrain,15,dry,permanent,+1 Lap,TRUE
+russell,williams,2020,4,silverstone,12,dry,permanent,Finished,TRUE
+hulkenberg,force_india,2016,6,monaco,6,wet,street,Finished,TRUE
+ericsson,sauber,2015,5,catalunya,14,dry,permanent,+1 Lap,TRUE
+ocon,alpine,2021,12,spa,7,wet,permanent,Finished,TRUE
+hamilton,mercedes,2019,13,spa,2,dry,permanent,Finished,TRUE
+giovinazzi,alfa,2021,9,red_bull_ring,14,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2014,2,sepang,10,dry,permanent,+1 Lap,TRUE
+kvyat,alphatauri,2020,8,monza,9,dry,permanent,Finished,TRUE
+kevin_magnussen,haas,2019,17,suzuka,15,dry,permanent,+1 Lap,TRUE
+kvyat,toro_rosso,2019,10,silverstone,9,dry,permanent,Finished,TRUE
+raikkonen,alfa,2020,8,monza,13,dry,permanent,Finished,TRUE
+grosjean,lotus_f1,2014,3,bahrain,12,dry,permanent,Finished,TRUE
+brendon_hartley,toro_rosso,2018,18,americas,9,dry,permanent,+1 Lap,TRUE
