@@ -1,3 +1,7 @@
+## Course Assignment Notes
+This repo contains the implementation used for Week 1 of the project.  
+The scripts `01_prep_data.R` through `07_predict.R` have been tested and run successfully in RStudio (recording submitted).  
+
 # Bayesian Analysis of Formula One Race Results
 
 [![DOI](https://zenodo.org/badge/352695980.svg)](https://zenodo.org/badge/latestdoi/352695980)
