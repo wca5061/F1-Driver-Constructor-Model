@@ -1,25 +1,22 @@
 # Code accompanying the manuscript "Bayesian Analysis of Formula One Race Results"
 # Last edited 2022-12-14 by @vankesteren
 # Contents: MCMC validation, posterior predictive checks
-
 library(tidyverse)
 library(bayesplot)
 library(posterior)
-# library(firatheme)  # REMOVED
+library(firatheme)
 
 f1_dat <- read_rds("dat/f1_dat.rds") %>% filter(finished)
 fit <- read_rds("fit/basic.rds")
 draws <- fit$draws()
 
 # MCMC mixing ----
-p_traces <-
-  draws %>%
+draws %>%
   mcmc_trace(regex_pars = "tau") +
-  theme_minimal(base_size = 12) +                        # REPLACED theme_fira()
-  scale_color_brewer(palette = "Dark2", guide = "none") +# REPLACED scale_colour_fira()
+  theme_fira() +
+  scale_colour_fira(guide = "none") +
   facet_wrap(vars(parameter), scales = "free", ncol = 1)
-
-ggsave("img/chains.png", p_traces, width = 6, height = 8, bg = "white")
+ggsave("img/chains.png", width = 6, height = 8, bg = "white")
 
 # Rhat ----
 rhats <- apply(draws, 3, rhat)
@@ -83,7 +80,7 @@ team_form <-
 
 # join everything
 driver_performance <- left_join(driver_form, driver_skill)
-team_performance   <- left_join(team_form,   team_advantage)
+team_performance <- left_join(team_form, team_advantage)
 
 simulate_race <- function(race_year, race_round, nsim = 200) {
   cat("Simulating season", race_year, "round", race_round, "\n")
@@ -124,10 +121,8 @@ pp_check_plot <- function(race_year, nsim = 200) {
     group_by(driver) %>%
     summarise(pos = mean(position)) %>%
     arrange(pos) %>%
-    mutate(
-      driver = fct_recode(driver, verstappen = "max_verstappen", schumacher = "mick_schumacher"),
-      driver = fct_relabel(driver, str_to_title)
-    ) %>%
+    mutate(driver = fct_recode(driver, verstappen = "max_verstappen", schumacher = "mick_schumacher"),
+           driver = fct_relabel(driver, str_to_title)) %>%
     pull(driver) %>%
     as.character()
 
@@ -142,39 +137,37 @@ pp_check_plot <- function(race_year, nsim = 200) {
     mutate(origin = "observed")
 
   bind_rows(y, yrep) %>%
-    mutate(
-      driver = fct_recode(driver, verstappen = "max_verstappen", schumacher = "mick_schumacher"),
-      driver = fct_relabel(driver, str_to_title)
-    ) %>%
+    mutate(driver = fct_recode(driver, verstappen = "max_verstappen", schumacher = "mick_schumacher"),
+           driver = fct_relabel(driver, str_to_title)) %>%
     ggplot(aes(x = factor(position), fill = origin, group = origin)) +
     geom_bar(aes(y = after_stat(prop)), position = position_dodge(preserve = "single")) +
     facet_wrap(~factor(driver, levels = ordered_levels)) +
-    theme_minimal(base_size = 12) +                      # REPLACED theme_fira()
-    theme(legend.position = "top",
-          axis.text.x = element_text(angle = 90, hjust = 1)) +
+    theme(legend.position = "top", axis.text.x = element_text(angle = 90, hjust = 1)) +
     labs(
       title = paste(race_year, "season posterior predictive check"),
       x = "Position",
       y = "",
       fill = ""
     ) +
-    scale_fill_brewer(palette = "Set2")                  # REPLACED scale_fill_fira()
+    theme_fira() +
+    scale_fill_fira()
 }
+
 
 # Posterior predictive check 2015 ----
 set.seed(45)
-pp15 <- pp_check_plot(2015, nsim = 1500)
-ggsave("img/pp_check_rank_2015.png", pp15, width = 15, height = 12, bg = "white")
+pp_check_plot(2015, nsim = 1500)
+ggsave("img/pp_check_rank_2015.png", width = 15, height = 12, bg = "white")
 
 # Posterior predictive check 2019 ----
 set.seed(45)
-pp19 <- pp_check_plot(2019, nsim = 1500)
-ggsave("img/pp_check_rank_2019.png", pp19, width = 15, height = 12, bg = "white")
+pp_check_plot(2019, nsim = 1500)
+ggsave("img/pp_check_rank_2019.png", width = 15, height = 12, bg = "white")
 
 # Posterior predictive check 2021 ----
 set.seed(45)
-pp21 <- pp_check_plot(2021, nsim = 1500)
-ggsave("img/pp_check_rank_2021.png", pp21, width = 15, height = 12, bg = "white")
+pp_check_plot(2021, nsim = 1500)
+ggsave("img/pp_check_rank_2021.png", width = 15, height = 12, bg = "white")
 
 # Expected points ----
 # posterior prediction of expected average points per race in a season
@@ -189,15 +182,9 @@ expected_points <-
   yrep %>%
   mutate(points = transform_points(position)) %>%
   group_by(.draw, driver) %>%
-  summarise(constructor = first(constructor), total = sum(points), .groups = "drop_last") %>%
+  summarise(constructor = first(constructor), total = sum(points)) %>%
   group_by(driver) %>%
-  summarise(
-    constructor = first(constructor),
-    exp_points = mean(total) / 22,
-    lower      = quantile(total, 0.045) / 22,
-    upper      = quantile(total, 0.955) / 22,
-    .groups = "drop"
-  ) %>%
+  summarise(constructor = first(constructor), exp_points = mean(total) / 22, lower = quantile(total, 0.045)  / 22, upper = quantile(total, 0.955)  / 22) %>%
   arrange(-exp_points)
 
 observed_points <-
@@ -205,6 +192,6 @@ observed_points <-
   filter(year == 2021) %>%
   mutate(points = transform_points(position)) %>%
   group_by(driver) %>%
-  summarise(constructor = first(constructor), obs_points = sum(points) / 22, .groups = "drop")
+  summarise(constructor = first(constructor), obs_points = sum(points) / 22)
 
-left_join(expected_points, observed_points, by = c("driver","constructor"))
+left_join(expected_points, observed_points)

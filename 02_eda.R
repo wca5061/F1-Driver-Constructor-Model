@@ -1,9 +1,8 @@
 # Code accompanying the manuscript "Bayesian Analysis of Formula One Race Results"
 # Last edited 2022-12-11 by @vankesteren
 # Contents: status filtering, some EDA
-
 library(tidyverse)
-# library(firatheme)   # removed since it's not available
+library(firatheme)
 
 # Data loading ----
 f1_dat <- read_rds("dat/f1_dat.rds")
@@ -13,8 +12,8 @@ f1_dat_finished <- f1_dat %>% filter(finished)
 # finish position
 f1_dat_finished %>%
   ggplot(aes(x = factor(position))) +
-  geom_bar(fill = "steelblue") +
-  theme_minimal() +
+  geom_bar(fill = firaCols[4]) +
+  theme_fira() +
   labs(
     title = "Distribution of finish positions",
     subtitle = "F1 hybrid era (2014-2021)",
@@ -29,8 +28,8 @@ f1_dat_finished %>%
   filter(driver %in% c("hamilton", "raikkonen", "giovinazzi"), year > 2015) %>%
   ggplot(aes(x = factor(position), fill = driver)) +
   geom_bar(position = position_dodge(preserve = "single")) +
-  theme_minimal() +
-  scale_fill_brewer(palette = "Set1") +
+  theme_fira() +
+  scale_fill_fira() +
   labs(
     x = "Finish position",
     y = "Count",
@@ -54,7 +53,7 @@ f1_dat_finished %>%
              xmin = mean_position - 2*sem,
              xmax = mean_position + 2*sem)) +
   geom_pointrange(size = .4) +
-  theme_minimal() +
+  theme_fira() +
   labs(
     y = "",
     x = "Position (mean ± 2⋅se)",
