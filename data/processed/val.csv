@@ -1,0 +1,160 @@
+season,round,race_name,date,country,locality,circuit_id,split,driver_id,constructor_id,position,points,grid,laps,status,gap,fastest_rank,fastest,top_speed_kph,time_sec
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,rosberg,mercedes,1,25,1,71,Finished,1:42:35.038,1,1:20.521,192.426,80.521
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,hamilton,mercedes,2,18,2,71,Finished,+1.954,2,1:20.723,191.945,80.723
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,bottas,williams,3,15,6,71,Finished,+14.592,4,1:21.585,189.917,81.58500000000001
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,kvyat,red_bull,4,12,4,71,Finished,+16.572,3,1:21.549,190.001,81.549
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,ricciardo,red_bull,5,10,5,71,Finished,+19.682,5,1:21.625,189.824,81.625
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,massa,williams,6,8,7,71,Finished,+21.493,7,1:22.009,188.935,82.009
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,hulkenberg,force_india,7,6,10,71,Finished,+25.860,9,1:22.391,188.059,82.39099999999999
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,perez,force_india,8,4,9,71,Finished,+34.343,12,1:22.757,187.227,82.757
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,max_verstappen,toro_rosso,9,2,8,71,Finished,+35.229,10,1:22.603,187.576,82.60300000000001
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,grosjean,lotus_f1,10,1,12,71,Finished,+37.934,13,1:22.893,186.92,82.893
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,maldonado,lotus_f1,11,0,13,71,Finished,+38.538,14,1:22.963,186.762,82.963
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,ericsson,sauber,12,0,14,71,Finished,+40.180,11,1:22.716,187.32,82.71600000000001
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,sainz,toro_rosso,13,0,11,71,Finished,+48.772,8,1:22.172,188.56,82.172
+2015,17,Mexican Grand Prix,2015-11-01,Mexico,Mexico City,rodriguez,val,button,mclaren,14,0,20,71,Finished,+49.214,15,1:23.006,186.666,83.006
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,hamilton,mercedes,1,25,1,70,Finished,1:31:05.296,2,1:15.981,206.625,75.981
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,vettel,ferrari,2,18,3,70,Finished,+5.011,3,1:16.297,205.769,76.297
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,bottas,williams,3,15,7,70,Finished,+46.422,10,1:16.938,204.055,76.938
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,max_verstappen,red_bull,4,12,5,70,Finished,+53.020,4,1:16.319,205.71,76.319
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,rosberg,mercedes,5,10,2,70,Finished,+1:02.093,1,1:15.599,207.669,75.599
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,raikkonen,ferrari,6,8,6,70,Finished,+1:03.017,9,1:16.919,204.105,76.919
+2016,7,Canadian Grand Prix,2016-06-12,Canada,Montreal,villeneuve,val,ricciardo,red_bull,7,6,4,70,Finished,+1:03.634,5,1:16.506,205.207,76.506
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,ricciardo,red_bull,1,25,4,56,Finished,1:37:12.776,3,1:37.449,204.771,97.449
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,max_verstappen,red_bull,2,18,3,56,Finished,+2.443,2,1:37.376,204.925,97.376
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,rosberg,mercedes,3,15,2,56,Finished,+25.516,1,1:36.424,206.948,96.424
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,raikkonen,ferrari,4,12,6,56,Finished,+28.785,4,1:37.466,204.736,97.46600000000001
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,bottas,williams,5,10,11,56,Finished,+1:01.582,9,1:39.199,201.159,99.199
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,perez,force_india,6,8,7,56,Finished,+1:03.794,11,1:39.328,200.898,99.328
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,alonso,mclaren,7,6,22,56,Finished,+1:05.205,6,1:38.291,203.017,98.291
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,hulkenberg,force_india,8,4,8,56,Finished,+1:14.062,5,1:37.793,204.051,97.793
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,button,mclaren,9,2,9,56,Finished,+1:21.816,8,1:38.740,202.094,98.74000000000001
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,jolyon_palmer,renault,10,1,19,56,Finished,+1:35.466,12,1:39.350,200.853,99.35
+2016,16,Malaysian Grand Prix,2016-10-02,Malaysia,Kuala Lumpur,sepang,val,sainz,toro_rosso,11,0,16,56,Finished,+1:38.878,10,1:39.243,201.07,99.243
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,hamilton,mercedes,1,25,1,56,Finished,1:38:12.618,4,1:42.386,193.842,102.386
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,rosberg,mercedes,2,18,2,56,Finished,+4.520,3,1:41.897,194.773,101.89699999999999
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,ricciardo,red_bull,3,15,3,56,Finished,+19.692,7,1:42.555,193.523,102.555
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,vettel,ferrari,4,12,6,56,Finished,+43.134,1,1:39.877,198.712,99.87700000000001
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,alonso,mclaren,5,10,12,56,Finished,+1:33.953,10,1:43.502,191.752,103.50200000000001
+2016,18,United States Grand Prix,2016-10-23,USA,Austin,americas,val,sainz,toro_rosso,6,8,10,56,Finished,+1:36.124,8,1:42.832,193.002,102.832
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,hamilton,mercedes,1,25,1,55,Finished,1:38:04.013,5,1:45.137,190.174,105.137
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,rosberg,mercedes,2,18,2,55,Finished,+0.439,9,1:45.261,189.95,105.261
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,vettel,ferrari,3,15,5,55,Finished,+0.843,1,1:43.729,192.756,103.729
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,max_verstappen,red_bull,4,12,6,55,Finished,+1.685,7,1:45.187,190.084,105.187
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,ricciardo,red_bull,5,10,3,55,Finished,+5.315,3,1:44.889,190.624,104.88900000000001
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,raikkonen,ferrari,6,8,4,55,Finished,+18.816,6,1:45.163,190.127,105.163
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,hulkenberg,force_india,7,6,7,55,Finished,+50.114,13,1:45.949,188.717,105.949
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,perez,force_india,8,4,8,55,Finished,+58.776,8,1:45.249,189.972,105.249
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,massa,williams,9,2,10,55,Finished,+59.436,10,1:45.675,189.206,105.675
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,alonso,mclaren,10,1,9,55,Finished,+59.896,2,1:44.495,191.343,104.495
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,grosjean,haas,11,0,14,55,Finished,+1:16.777,4,1:44.970,190.477,104.97
+2016,21,Abu Dhabi Grand Prix,2016-11-27,UAE,Abu Dhabi,yas_marina,val,gutierrez,haas,12,0,13,55,Finished,+1:35.113,12,1:45.928,188.754,105.928
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,hamilton,mercedes,1,25,1,70,Finished,1:33:05.154,1,1:14.551,210.588,74.551
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,bottas,mercedes,2,18,3,70,Finished,+19.783,5,1:15.894,206.862,75.894
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,ricciardo,red_bull,3,15,6,70,Finished,+35.297,8,1:16.165,206.126,76.16499999999999
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,vettel,ferrari,4,12,2,70,Finished,+35.907,2,1:14.719,210.115,74.719
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,perez,force_india,5,10,8,70,Finished,+40.476,11,1:16.367,205.58,76.367
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,ocon,force_india,6,8,9,70,Finished,+40.716,9,1:16.247,205.904,76.247
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,raikkonen,ferrari,7,6,4,70,Finished,+58.632,3,1:15.388,208.25,75.388
+2017,7,Canadian Grand Prix,2017-06-11,Canada,Montreal,villeneuve,val,hulkenberg,renault,8,4,10,70,Finished,+1:00.374,7,1:16.136,206.204,76.136
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,hamilton,mercedes,1,25,1,53,Finished,1:30:11.385,5,1:34.509,222.531,94.509
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,max_verstappen,red_bull,2,18,4,53,Finished,+7.090,2,1:34.275,223.083,94.275
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,raikkonen,ferrari,3,15,6,53,Finished,+25.888,3,1:34.398,222.792,94.398
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,ricciardo,red_bull,4,12,5,53,Finished,+34.736,7,1:35.382,220.494,95.382
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,vettel,ferrari,5,10,3,53,Finished,+1:01.935,4,1:34.485,222.587,94.485
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,kevin_magnussen,haas,6,8,9,53,Finished,+1:19.364,8,1:35.425,220.395,95.425
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,bottas,mercedes,7,6,2,53,Finished,+1:20.632,1,1:34.225,223.201,94.225
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,sainz,renault,8,4,7,53,Finished,+1:27.184,9,1:35.638,219.904,95.638
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,hulkenberg,renault,9,2,12,53,Finished,+1:31.989,11,1:35.873,219.365,95.87299999999999
+2018,8,French Grand Prix,2018-06-24,France,Le Castellet,ricard,val,leclerc,sauber,10,1,8,53,Finished,+1:33.873,12,1:35.977,219.127,95.977
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,vettel,ferrari,1,25,2,44,Finished,1:23:34.476,2,1:46.644,236.435,106.644
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,hamilton,mercedes,2,18,1,44,Finished,+11.061,3,1:46.721,236.264,106.721
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,max_verstappen,red_bull,3,15,7,44,Finished,+31.372,4,1:46.946,235.767,106.946
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,bottas,mercedes,4,12,19,44,Finished,+1:03.605,1,1:46.286,237.231,106.286
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,perez,force_india,5,10,4,44,Finished,+1:11.023,7,1:48.080,233.293,108.08
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,ocon,force_india,6,8,3,44,Finished,+1:19.520,6,1:48.078,233.298,108.078
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,grosjean,haas,7,6,5,44,Finished,+1:25.953,8,1:48.283,232.856,108.283
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,kevin_magnussen,haas,8,4,9,44,Finished,+1:27.639,5,1:47.937,233.602,107.937
+2018,13,Belgian Grand Prix,2018-08-26,Belgium,Spa,spa,val,gasly,toro_rosso,9,2,10,44,Finished,+1:45.892,9,1:48.588,232.202,108.588
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,hamilton,mercedes,1,25,3,53,Finished,1:16:54.484,1,1:22.497,252.794,82.497
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,raikkonen,ferrari,2,18,1,53,Finished,+8.705,4,1:23.515,249.713,83.515
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,bottas,mercedes,3,15,4,53,Finished,+14.066,3,1:22.907,251.544,82.907
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,vettel,ferrari,4,12,2,53,Finished,+16.151,2,1:22.505,252.77,82.505
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,max_verstappen,red_bull,5,10,5,53,Finished,+18.208,6,1:23.609,249.432,83.60900000000001
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,ocon,force_india,6,8,8,53,Finished,+57.761,12,1:24.243,247.555,84.243
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,perez,force_india,7,6,14,53,Finished,+58.678,11,1:24.179,247.743,84.179
+2018,14,Italian Grand Prix,2018-09-02,Italy,Monza,monza,val,sainz,renault,8,4,7,53,Finished,+1:18.140,5,1:23.529,249.671,83.529
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,hamilton,mercedes,1,25,1,71,Finished,1:22:50.683,3,1:06.719,232.989,66.719
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,bottas,mercedes,2,18,4,71,Finished,+13.719,7,1:07.534,230.177,67.534
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,max_verstappen,red_bull,3,15,2,71,Finished,+33.698,2,1:06.145,235.01,66.145
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,albon,red_bull,4,12,6,71,Finished,+44.400,6,1:07.299,230.981,67.299
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,norris,mclaren,5,10,9,71,Finished,+1:01.470,5,1:07.193,231.345,67.193
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,perez,racing_point,6,8,17,71,Finished,+1:02.387,4,1:07.188,231.362,67.188
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,stroll,racing_point,7,6,12,71,Finished,+1:02.453,10,1:07.833,229.162,67.833
+2020,2,Styrian Grand Prix,2020-07-12,Austria,Spielberg,red_bull_ring,val,ricciardo,renault,8,4,8,71,Finished,+1:02.591,9,1:07.832,229.166,67.832
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,hamilton,mercedes,1,26,1,59,Finished,2:19:35.060,1,1:18.833,239.518,78.833
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,bottas,mercedes,2,18,2,59,Finished,+4.880,2,1:19.432,237.712,79.432
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,albon,red_bull,3,15,4,59,Finished,+8.064,3,1:20.039,235.909,80.039
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,ricciardo,renault,4,12,8,59,Finished,+10.417,4,1:20.426,234.774,80.426
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,perez,racing_point,5,10,7,59,Finished,+15.650,5,1:20.632,234.175,80.632
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,norris,mclaren,6,8,11,59,Finished,+18.883,7,1:21.198,232.542,81.19800000000001
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,kvyat,alphatauri,7,6,12,59,Finished,+21.756,10,1:21.458,231.8,81.458
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,leclerc,ferrari,8,4,5,59,Finished,+28.345,9,1:21.229,232.453,81.229
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,raikkonen,alfa,9,2,13,59,Finished,+29.770,6,1:21.164,232.64,81.164
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,vettel,ferrari,10,1,14,59,Finished,+29.983,8,1:21.202,232.531,81.202
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,russell,williams,11,0,18,59,Finished,+32.404,11,1:21.645,231.269,81.645
+2020,9,Tuscan Grand Prix,2020-09-13,Italy,Mugello,mugello,val,grosjean,haas,12,0,15,59,Finished,+42.036,13,1:22.263,229.532,82.263
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,hamilton,mercedes,1,26,2,63,Finished,1:28:32.430,1,1:15.484,234.121,75.484
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,bottas,mercedes,2,18,1,63,Finished,+5.783,2,1:15.902,232.831,75.902
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,ricciardo,renault,3,15,5,63,Finished,+14.320,4,1:17.552,227.878,77.55199999999999
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,kvyat,alphatauri,4,12,8,63,Finished,+15.141,6,1:17.666,227.543,77.666
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,leclerc,ferrari,5,10,7,63,Finished,+19.111,12,1:18.173,226.067,78.173
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,perez,racing_point,6,8,11,63,Finished,+19.652,9,1:18.084,226.325,78.084
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,sainz,mclaren,7,6,10,63,Finished,+20.230,11,1:18.118,226.226,78.118
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,norris,mclaren,8,4,9,63,Finished,+21.131,8,1:18.069,226.368,78.069
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,raikkonen,alfa,9,2,18,63,Finished,+22.224,10,1:18.088,226.313,78.088
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,giovinazzi,alfa,10,1,20,63,Finished,+26.398,15,1:18.794,224.286,78.794
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,latifi,williams,11,0,19,63,Finished,+27.135,14,1:18.719,224.499,78.719
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,vettel,ferrari,12,0,14,63,Finished,+28.453,7,1:17.767,227.248,77.767
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,stroll,racing_point,13,0,15,63,Finished,+29.163,13,1:18.360,225.528,78.36
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,grosjean,haas,14,0,16,63,Finished,+32.935,17,1:18.822,224.206,78.822
+2020,13,Emilia Romagna Grand Prix,2020-11-01,Italy,Imola,imola,val,albon,red_bull,15,0,6,63,Finished,+57.284,3,1:16.177,231.991,76.17699999999999
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,hamilton,mercedes,1,25,6,58,Finished,1:42:19.313,6,1:39.413,193.302,99.413
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,perez,racing_point,2,18,3,58,Finished,+31.633,12,1:40.392,191.417,100.392
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,vettel,ferrari,3,15,11,58,Finished,+31.960,8,1:39.662,192.819,99.662
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,leclerc,ferrari,4,12,12,58,Finished,+33.858,11,1:39.961,192.242,99.961
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,sainz,mclaren,5,10,15,58,Finished,+34.363,4,1:38.754,194.592,98.75399999999999
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,max_verstappen,red_bull,6,8,2,58,Finished,+44.873,3,1:38.431,195.231,98.431
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,albon,red_bull,7,6,4,58,Finished,+46.484,5,1:39.099,193.915,99.09899999999999
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,norris,mclaren,8,5,14,58,Finished,+1:01.259,1,1:36.806,198.508,96.806
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,stroll,racing_point,9,2,1,58,Finished,+1:12.353,10,1:39.921,192.319,99.92099999999999
+2020,14,Turkish Grand Prix,2020-11-15,Turkey,Istanbul,istanbul,val,ricciardo,renault,10,1,5,58,Finished,+1:35.460,13,1:40.677,190.875,100.67699999999999
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,perez,racing_point,1,25,5,87,Finished,1:31:15.114,3,56.789,224.599,56.789
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,ocon,renault,2,18,11,87,Finished,+10.518,12,57.350,222.402,57.35
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,stroll,racing_point,3,15,10,87,Finished,+11.869,14,57.388,222.255,57.388
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,sainz,mclaren,4,12,8,87,Finished,+12.580,9,57.165,223.122,57.165
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,ricciardo,renault,5,10,7,87,Finished,+13.330,6,56.979,223.85,56.979
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,albon,red_bull,6,8,12,87,Finished,+13.842,8,57.056,223.548,57.056
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,kvyat,alphatauri,7,6,6,87,Finished,+14.534,7,57.001,223.764,57.001
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,bottas,mercedes,8,4,1,87,Finished,+15.389,2,56.563,225.497,56.563
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,russell,mercedes,9,3,2,87,Finished,+18.556,1,55.404,230.214,55.404
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,norris,mclaren,10,1,19,87,Finished,+19.541,11,57.270,222.713,57.27
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,gasly,alphatauri,11,0,9,87,Finished,+20.527,10,57.220,222.908,57.22
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,vettel,ferrari,12,0,13,87,Finished,+22.611,5,56.905,224.141,56.905
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,giovinazzi,alfa,13,0,14,87,Finished,+24.111,4,56.887,224.212,56.887
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,raikkonen,alfa,14,0,18,87,Finished,+26.153,13,57.375,222.305,57.375
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,kevin_magnussen,haas,15,0,15,87,Finished,+32.370,16,57.516,221.76,57.516
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,aitken,williams,16,0,17,87,Finished,+33.674,15,57.392,222.24,57.392
+2020,16,Sakhir Grand Prix,2020-12-06,Bahrain,Sakhir,bahrain,val,pietro_fittipaldi,haas,17,0,20,87,Finished,+36.858,17,57.742,220.892,57.742
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,ocon,alpine,1,25,8,70,Finished,2:04:43.199,5,1:21.421,193.704,81.42099999999999
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,hamilton,mercedes,2,18,1,70,Finished,+2.736,2,1:18.715,200.363,78.715
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,sainz,ferrari,3,15,15,70,Finished,+15.018,6,1:21.423,193.699,81.423
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,alonso,alpine,4,12,9,70,Finished,+15.651,3,1:20.359,196.264,80.35900000000001
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,gasly,alphatauri,5,11,5,70,Finished,+1:03.614,1,1:18.394,201.183,78.394
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,tsunoda,alphatauri,6,8,16,70,Finished,+1:15.803,10,1:22.450,191.286,82.45
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,latifi,williams,7,6,18,70,Finished,+1:17.910,14,1:22.831,190.406,82.831
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,russell,williams,8,4,17,70,Finished,+1:19.094,9,1:22.112,192.074,82.112
+2021,11,Hungarian Grand Prix,2021-08-01,Hungary,Budapest,hungaroring,val,max_verstappen,red_bull,9,2,3,70,Finished,+1:20.244,4,1:20.945,194.843,80.945
+2021,13,Dutch Grand Prix,2021-09-05,Netherlands,Zandvoort,zandvoort,val,max_verstappen,red_bull,1,25,1,72,Finished,1:30:05.395,3,1:13.275,209.244,73.275
+2021,13,Dutch Grand Prix,2021-09-05,Netherlands,Zandvoort,zandvoort,val,hamilton,mercedes,2,19,2,72,Finished,+20.932,1,1:11.097,215.654,71.097
+2021,13,Dutch Grand Prix,2021-09-05,Netherlands,Zandvoort,zandvoort,val,bottas,mercedes,3,15,3,72,Finished,+56.460,2,1:12.549,211.338,72.549
